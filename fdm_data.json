@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "updated": "2026-04-22",
+    "month": "2026-04",
+    "target": 23
+  },
+  "insight": "April 2026 – rutingenererad insikt placeras här av Claude Code Routine varje måndag.",
+  "companyData": {
+    "Mannheimer swartling advokatbyrå ab": {
+      "employees": 559,
+      "revenue": null,
+      "desc": "Sveriges ledande advokatbyrå inom affärsjuridik med bred kompetens inom svenska och internationella affärer."
+    },
+    "Bellman Group": {
+      "employees": 180,
+      "revenue": 207496000,
+      "desc": "Bellman Group hjälper kunder att bygga hållbart och cirkulärt genom ett brett tjänsteutbud inom rivning, sanering och återbruk."
+    }
+  },
+  "fdms": [
+    {
+      "dealId": "59186382008",
+      "company": "Mannheimer swartling advokatbyrå ab",
+      "fdmDate": "2026-04-16",
+      "productId": "899310028",
+      "sector": "private_sector",
+      "country": "Sweden",
+      "som_sam": null,
+      "dealType": "899310000",
+      "inoutbound": "outbound",
+      "ownerName": "Angus Palmberg",
+      "amount": 230000,
+      "nextStep": null,
+      "sdr": null
+    },
+    {
+      "dealId": "59225163034",
+      "company": "Bellman Group",
+      "fdmDate": "2026-04-16",
+      "productId": "899310028",
+      "sector": "private_sector",
+      "country": "Sweden",
+      "som_sam": "som",
+      "dealType": "899310000",
+      "inoutbound": "inbound",
+      "ownerName": "Caroline Brandberg",
+      "amount": 230000,
+      "nextStep": "FDM 22/4",
+      "sdr": null
+    }
+  ]
+}
