@@ -1,51 +1,71 @@
 {
   "meta": {
-    "updated": "2026-04-22",
-    "month": "2026-04",
-    "target": 23
+    "updated": "2026-05-05",
+    "month": "2026-05",
+    "target": 20
   },
-  "insight": "April 2026 – rutingenererad insikt placeras här av Claude Code Routine varje måndag.",
+  "insight": "Vecka 19, 1–4 maj 2026: Totalt 3 whitelistade FDM:er registrerades under periodens fyra dagar – 1 inbound och 2 outbound. Inbound-attainment mot månadsmålet om 20 uppgår till 5 % (1/20), vilket är ungefär proportionerligt med att ~13 % av månaden förflutit. Jämfört med aprildata (per 22 april: 2 FDM:er varav 1 inbound, mot mål 23) är det absoluta flödet något starkare, men perioderna är inte direkt jämförbara.\n\nProduktnivå: InfoSec/GRC dominerar tydligt – NIS2-paketet (899310033, Connecting Stockholm) och Informationssäkerhet & Dataskydd (899310022, Felleskjøpet RA INFOSEC) utgör 2 av 3 FDM:er, direkt drivet av NIS2-regelverket och den svenska Cybersäkerhetslagen. ESG Due Diligence (899310028, Felleskjøpet RA) genererar det tredje FDM:et, men mot bakgrund av EU Omnibus I (mars 2026) – som kraftigt begränsar CSRD:s tillämpningsområde och skjuter upp CSDDD till 2028 – är ESG-pipelinens hållbarhet på sikt osäker. Stratsys förflyttning mot GRC är tydligt synlig i det tidiga maj-utfallet.\n\nRisker och bevakningspunkter: (1) Inbound-andelen är låg (1/3 = 33 %) och ett snabbt accelererande flöde krävs för att nå 20 under månaden. (2) Felleskjøpet Rogaland Agder svarar för 2 av 3 FDM:er via två separata affärer under Kim Maagerøes ansvar – hög kundberoenderisk i det tidiga utfallet. (3) Region Jönköpings Läns AI-expansion (product 899310032) räknas inte som whitelisted FDM, vilket signalerar att AI-licens-produkten ännu inte ingår i standardräkningen och bör utredas för eventuell whitelisting.\n\nRekommendation: Aktivera NIS2/Cybersäkerhet-fokuserad SDR-outreach omgående för att driva inbound-volymen mot ett delmål om minst 5 inbound FDM:er per vecka under v19–22. Prioritera organisationer med 250–1 000 anställda i offentlig sektor och privata bolag med kritisk infrastruktur – det segment där NIS2-obligationen är tydligast och Stratsys GRC-erbjudande är mest differentierat.",
   "companyData": {
-    "Mannheimer swartling advokatbyrå ab": {
-      "employees": 559,
+    "Felleskjøpet Rogaland Agder": {
+      "employees": 270,
       "revenue": null,
-      "desc": "Sveriges ledande advokatbyrå inom affärsjuridik med bred kompetens inom svenska och internationella affärer."
+      "desc": "Felleskjøpet Rogaland Agder serves as a key partner in the agricultural sector, providing a range of equipment, products, and services designed to enhance farming efficiency and profitability, while also focusing on food safety initiatives."
     },
-    "Bellman Group": {
-      "employees": 180,
-      "revenue": 207496000,
-      "desc": "Bellman Group hjälper kunder att bygga hållbart och cirkulärt genom ett brett tjänsteutbud inom rivning, sanering och återbruk."
+    "Connecting Stockholm": {
+      "employees": null,
+      "revenue": null,
+      "desc": "Connecting Stockholm is a local independent company formed through a collaboration project that has brought together extensive expertise and global knowledge from two international public transport companies, Go Ahead and ComfortDelGro. The company is dedicated to bringing people closer together and leading the way towards a new future in mobility."
+    },
+    "Region Jönköpings Län": {
+      "employees": 33573,
+      "revenue": 10000000000,
+      "desc": "Region Jönköpings län provides general information about the region, recruitment, politics, citizen dialogue, and details about the region's offerings and activities."
     }
   },
   "fdms": [
     {
-      "dealId": "59186382008",
-      "company": "Mannheimer swartling advokatbyrå ab",
-      "fdmDate": "2026-04-16",
+      "dealId": "59798350713",
+      "company": "Felleskjøpet Rogaland Agder",
+      "fdmDate": "2026-05-04",
+      "productId": "899310022",
+      "sector": "private_sector",
+      "country": "Norway",
+      "som_sam": null,
+      "dealType": "899310000",
+      "inoutbound": "inbound",
+      "ownerName": "Kim Maagerøe",
+      "amount": 70000,
+      "nextStep": null,
+      "sdr": "Felix Flodin"
+    },
+    {
+      "dealId": "59915089559",
+      "company": "Felleskjøpet Rogaland Agder",
+      "fdmDate": "2026-05-04",
       "productId": "899310028",
+      "sector": "private_sector",
+      "country": "Norway",
+      "som_sam": null,
+      "dealType": "899310000",
+      "inoutbound": "outbound",
+      "ownerName": "Kim Maagerøe",
+      "amount": 310000,
+      "nextStep": "FDM 6.05",
+      "sdr": null
+    },
+    {
+      "dealId": "59963597333",
+      "company": "Connecting Stockholm",
+      "fdmDate": "2026-05-04",
+      "productId": "899310033",
       "sector": "private_sector",
       "country": "Sweden",
       "som_sam": null,
       "dealType": "899310000",
       "inoutbound": "outbound",
-      "ownerName": "Angus Palmberg",
-      "amount": 230000,
+      "ownerName": "Magda Larsed",
+      "amount": 250000,
       "nextStep": null,
-      "sdr": null
-    },
-    {
-      "dealId": "59225163034",
-      "company": "Bellman Group",
-      "fdmDate": "2026-04-16",
-      "productId": "899310028",
-      "sector": "private_sector",
-      "country": "Sweden",
-      "som_sam": "som",
-      "dealType": "899310000",
-      "inoutbound": "inbound",
-      "ownerName": "Caroline Brandberg",
-      "amount": 230000,
-      "nextStep": "FDM 22/4",
       "sdr": null
     }
   ]
