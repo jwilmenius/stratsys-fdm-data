@@ -1,10 +1,10 @@
 {
   "meta": {
-    "updated": "2026-05-19",
+    "updated": "2026-05-26",
     "month": "2026-05",
     "target": 20
   },
-  "insight": "Maj 2026, period 1–18 maj | Körning 2026-05-19\n\n1. FDM-VOLYM OCH INBOUND-ATTAINMENT\nMed 18 av 31 majdagar avklarade (58 % av månaden) uppgår det ackumulerade FDM-utfallet till 21 FDMs, varav 6 är inbound. Inbound-attainment: 30 % (6/20). Linjär prognos vid nuvarande takt (0,33 inbound-FDMs/dag): ca 10 FDMs vid månadsskiftet – motsvarar ~50 % av maj-target. Sedan föregående körning (2026-05-18, 21 FDMs, 6 inbound) har inga nya FDMs registrerats under den mellanliggande dagen (18 maj) – pipelinen är oförändrad. För att nå budget krävs 14 ytterligare inbound-FDMs på 13 återstående dagar (v21–v22), vilket innebär en mer än tredubblad daglig takt jämfört med hittills uppnådd.\n\n2. JÄMFÖRELSE MED FÖREGÅENDE MÅNAD\nAprils target var 23 inbound FDMs. Faktiskt utfall för april är inte tillgängligt i aktuell data. Majpipelinens inbound-andel (29 %) är strukturellt svag och understiger vad som normalt krävs för att nå target. Den outbound-tunga profilen (15 av 21 FDMs) avspeglar att ESG DD-aktiviteten i stor utsträckning drivs av AE-initierade outreach-kampanjer snarare än av inkommande leads. Pipelinen som nu befinner sig i FDM-stadiet för maj innehåller affärer skapade ända sedan december 2025 (Region Halland, AI) vilket visar att en del av volymen är lagrad pipeline snarare än färsk demand.\n\n3. PRODUKTER OCH SEGMENT SOM DRIVER RESULTATEN\nESG Due Diligence (899310028) dominerar med 11 FDMs (52 %), samtliga outbound. Sju av dessa är kommunala expansionsaffärer bokade 7 maj i ett koordinerat kluster av en AE. Övriga ESG DD-FDMs avser Jernhusen AB, Felleskjøpet RA och Bellman Group – alla outbound. GRC-segmentet (Informationssäkerhet & Dataskydd 899310022, Cyber Due Diligence 899310031, Risk & kontroll 899310037) samlar 6 FDMs varav 5 inbound – det absolut starkaste inbound-segmentet i maj. Felleskjøpet RA genererade en dubbel-FDM (Cyber DD + InfoSec, norsk privat sektor), INVID Gruppen och Norrköpings kom in på InfoSec, RISE och Storytel på Risk & kontroll. Hållbarhetsstyrning (899310011): 3 FDMs (FM Mattsson Group, Bellman Group, Fastighets AB Balder) – alla outbound, privat sektor. Kvalitetsarbete (899310013): 1 FDM inbound (Socialstyrelsen).\n\n4. KOPPLING TILL MARKNADSLÄGET\nEU Omnibus I (effektiv 18 mars 2026) reducerade CSRD-scopet till bolag med >1 000 anst. och >€450 M omsättning, och sköt upp Wave 2/3 med 2 år. Urgency-argumentet mot medelstora privata bolag för ESG/HBS har försvagats påtagligt – all privat ESG-aktivitet i maj är outbound-driven och inbound-volymen för HBS är noll. Kommunal ESG DD påverkas inte direkt eftersom drivkraften är intern leverantörsuppföljning, inte CSRD-compliance. CSDDD:s försening till juli 2028 förstärker denna trend ytterligare och minskar supply chain ESG-argumentet. Mot detta kontrasterar NIS2 och den svenska cybersäkerhetslagen som ger starkt inbound-momentum: 5 av 6 inbound-FDMs är GRC-relaterade. Stratsys skifte mot GRC är tydligt avläsbart i pipelinens inbound-topp. Den norska affären (Felleskjøpet RA) indikerar att GRC-behovet sträcker sig bortom Sverige och att nordisk expansion kan ge ökad SDR-avkastning.\n\n5. RISKER OCH BEVAKNINGSPUNKTER\n1. Kritisk attainment-gap: 14 inbound-FDMs krävs på 13 återstående dagar (>1/dag). Historisk majpace ger max 4–5 ytterligare vid nuvarande takt – utan en aktiv slutspurt landar attainment på ~50 %. Scenariot kräver mer än en fördubbling av SDR-output v21–22.\n2. Nolldagen 18 maj: Inga nya FDMs registrerades senaste dygnet. Kan bero på datalag eller reellt aktivitetsuppehåll – behöver följas upp omgående mot SDR-teamet.\n3. ESG DD-AE-koncentration: 7 av 11 ESG DD-FDMs bokades av en AE på en enda dag (7 maj). Inget liknande kluster syns i pipen för v21–22 – ESG DD-volymen riskerar att plana ut.\n4. Omnibus-exponering på privat ESG-inbound: Privat inbound HBS och ESG är noll i maj. Regelkompliansargumentet har tappat kraft mot privatmarknaden och narrativet behöver omvandlas till governance och riskhantering.\n5. Norrköpings next-step: next-step-texten 'Boka FDM' kvarstår trots att FDM-datumet är 2026-05-11. Kräver omedelbar AE-korrigering och uppföljning av affärsstatus.\n\n6. REKOMMENDATION\nFokusera SDR-kapaciteten v21–22 uteslutande på InfoSec/GRC: kommuner med NIS2-exponering, medelstora privata bolag med kritisk IT-infrastruktur och offentliga verksamheter berörda av den svenska cybersäkerhetslagen. Dessa profiler konverterar till inbound-FDM med kortast ledtid i nuläget. Prioritera parallellt omedelbar progression av RISE Research Institutes (Risk & kontroll, 270 000 SEK) och Socialstyrelsen (Kvalitetsarbete, 70 000 SEK) mot avslut v21 – bägge är inbound-kvalificerade och bör materialisera pipeline-värdet omgående för att förbättra maj-utfallet.",
+  "insight": "Maj 2026, period 1–25 maj | Körning 2026-05-26\n\n1. FDM-VOLYM OCH INBOUND-ATTAINMENT\nPer 2026-05-25 uppgår det ackumulerade FDM-utfallet till 27 FDMs, varav 8 är inbound. Mot månads­målet på 20 inbound-FDMs innebär det 40 % attainment med 5 dagar kvar i månaden. Sedan föregående körning (2026-05-19, 21 FDMs, 6 inbound) har 6 nya FDMs tillkommit – varav 2 inbound: Komplett x Stratsys (Risk & kontroll) och Brite Payments (InfoSec). Linjär inbound-takt (0,32 FDMs/dag) projekterar max ~10 inbound-FDMs för hela maj, dvs. 50 % av target. För att nå budget krävs 12 ytterligare inbound-FDMs på 5 dagar – en mer än sexfaldig ökning av dagstakten.\n\n2. JÄMFÖRELSE MED FÖREGÅENDE KÖRNING\nJämfört med körning 2026-05-19 (+6 FDMs totalt, +2 inbound, +33 %): tillkommer Komplett ASA (norsk privat sektor, Risk & kontroll, inbound) och Brite Payments (svensk FinTech/OpenBanking, InfoSec, inbound), samt fyra outbound-FDMs (Botkyrka och Oskarshamns kommuner – ESG DD utförare-expansion, Stena Metall och Kavli – ESG DD privat). Inbound-andelen har förbättrats från 29 % till 30 % men är fortfarande kritiskt låg mot budget.\n\n3. PRODUKTER OCH SEGMENT SOM DRIVER RESULTATEN\nESG Due Diligence (899310028) dominerar volymen med 15 FDMs (56 %) – samtliga outbound. Mönstret drivs av kommunala leverantörsuppföljningsaffärer (externa utföare) i koordinerade kluster. GRC-segmentet (Informationssäkerhet 899310022, Risk & kontroll 899310037, Cyber DD 899310031) svarar för 8 FDMs varav 7 är inbound – exceptionellt hög inbound-konverteringsgrad (88 %). Hållbarhetsstyrning (899310011): 3 FDMs, alla outbound. Kvalitetsarbete (899310013): 1 FDM inbound (Socialstyrelsen). Sammantaget är inbound uteslutande GRC-drivet; ESG/HBS genererar noll inbound i maj.\n\n4. KOPPLING TILL MARKNADSLÄGET\nEU Omnibus I (18 mars 2026) och CSRD-scopereduceringen (>1 000 anst. och >€450 M omsättning) bekräftas i datan: privat HBS-inbound = noll, privat ESG-inbound = noll i maj. Kommunal ESG DD (leverantörsuppföljning) är robust eftersom drivkraften är intern styrning snarare än CSRD-compliance. NIS2 och den svenska cybersäkerhetslagen är den enda regelkomponenten som genererar inbound-momentum i maj. Komplett ASA (norsk privat sektor, 1 550 anst.) och Brite Payments (FinTech, 83 anst.) bekräftar att InfoSec/GRC-behovet är brett och segmentöverskridande. Stratsys strategiska pivot mot GRC är rätt i timing – men inbound-pipeline-volymen måste skalas upp 2–3x för att nå budget.\n\n5. RISKER OCH BEVAKNINGSPUNKTER\n1. Inbound-gap är kritiskt: 12 ytterligare inbound-FDMs krävs på 5 dagar (>2,4/dag). Realistisk prognos: 9–10 inbound-FDMs för hela maj, ca 50 % attainment.\n2. ESG-outbound-kluster blåser upp totalvolymen: koordinerade kluster (7 maj ×7 kommuner, 20 maj ×2, 25 maj ×2) skapar en utbulkad pipeline som inte reflekterar inbound-hälsan. Risk att bilden upplevs som starkare än den är.\n3. Norrköpings next-step: texten 'Boka FDM' kvarstår trots FDM-datum 2026-05-11. AE behöver korrigera affärsstatus omgående.\n4. Stratsys AI-licens-affärer: Region Stockholm AI (2026-05-11), Region Jönköpings Län AI (2026-05-04) och Region Halland AI (2026-05-08) har AI-licensaffärer med FDM-datum i maj men saknar whitelistade produktkoder (hs_sku) → räknas inte in i tracking. Dessa representerar ett potentiellt underkvalitetsfel i CRM-inmatningen. Säkerställ att custom-produktkod sätts vid FDM-registrering.\n\n6. REKOMMENDATION\nMobilisera SDR-resurser v22 mot tre prioriterade GRC-spår: (1) kommuner med obearbetad NIS2-exponering för InfoSec-inbound, (2) medelstora privata FinTech- och IT-bolag (profil: Brite Payments, INVID) för InfoSec/Cyber DD, (3) medelstora privata bolag i industri och handel (profil: Komplett, Storytel) för Risk & kontroll. Dessa profiler har bekräftad inbound-konverteringshistorik denna vecka. Parallellt: inför krav på att hs_sku alltid sätts vid FDM-registrering – utan detta kan inbound-attainment inte mätas korrekt och AI-licens­affärer förblir osynliga i trackningen.",
   "companyData": {
     "FM Mattsson Group": {
       "employees": 1000,
@@ -79,7 +79,7 @@
     "Fastighets AB Balder": {
       "employees": 474,
       "revenue": 529000000,
-      "desc": "Fastighetsbolag"
+      "desc": "Fastighetsbolag med fokus på bostäder, kontor och kommersiella fastigheter i Norden."
     },
     "INVID Gruppen": {
       "employees": 200,
@@ -90,9 +90,141 @@
       "employees": 3500,
       "revenue": 10000000000,
       "desc": "Norrköping provides public services and administrative support to its residents through a range of municipal operations."
+    },
+    "Oskarshamns kommun": {
+      "employees": 26928,
+      "revenue": 500000000,
+      "desc": "Oskarshamns kommun provides essential services to residents, businesses, and visitors with a focus on community engagement and continuous recruitment of skilled professionals."
+    },
+    "Stena Metall": {
+      "employees": 106,
+      "revenue": 74054000,
+      "desc": "Varje år återvinner Stena spillolja som motsvarar en 50 km lång tankbilskaravan, fullastad med råolja."
+    },
+    "Komplett ASA": {
+      "employees": 1550,
+      "revenue": 250000000,
+      "desc": "Komplett Group is the largest online-first electronics retailer with a core focus on consumer electronics and gaming products in Scandinavia, continuously at the forefront of online retail and e-commerce development."
+    },
+    "Brite Payments": {
+      "employees": 83,
+      "revenue": null,
+      "desc": "Brite Payments revolutionizes payments with Open Banking technology, providing instant and secure Account to Account transactions for consumers and merchants alike."
+    },
+    "Botkyrka kommun": {
+      "employees": 6120,
+      "revenue": 1000000000,
+      "desc": "Botkyrka Kommun provides information about local services and activities such as schools, care, job opportunities, culture, leisure, traffic, building permits, and politics."
+    },
+    "Kavli": {
+      "employees": 35,
+      "revenue": 50000000,
+      "desc": "O Kavli AB manufactures cheese products including natural cheese, processed cheese, cheese foods, cheese spreads, and cheese analogs for distribution throughout Sweden."
     }
   },
   "fdms": [
+    {
+      "dealId": "60486884353",
+      "dealName": "Oskarshamns kommun - externa utföare",
+      "company": "Oskarshamns kommun",
+      "fdmDate": "2026-05-25",
+      "productId": "899310028",
+      "productName": "ESG Due Diligence (up to 250 suppliers)",
+      "sector": "public_sector",
+      "country": "Sweden",
+      "som_sam": "sam",
+      "dealType": "899310002",
+      "inoutbound": "outbound",
+      "ownerId": "123158107",
+      "sdrId": null,
+      "amount": 230000,
+      "nextStep": null
+    },
+    {
+      "dealId": "60525040256",
+      "dealName": "Stena Metall - Due Diligence",
+      "company": "Stena Metall",
+      "fdmDate": "2026-05-25",
+      "productId": "899310028",
+      "productName": "ESG Due Diligence (custom)",
+      "sector": "private_sector",
+      "country": "Sweden",
+      "som_sam": null,
+      "dealType": "899310002",
+      "inoutbound": "outbound",
+      "ownerId": "523874116",
+      "sdrId": null,
+      "amount": 70000,
+      "nextStep": null
+    },
+    {
+      "dealId": "60447338324",
+      "dealName": "Komplett x Stratsys",
+      "company": "Komplett ASA",
+      "fdmDate": "2026-05-22",
+      "productId": "899310037",
+      "productName": "Risk och kontroll produktlicens (custom)",
+      "sector": "private_sector",
+      "country": "Norway",
+      "som_sam": "sam",
+      "dealType": "899310000",
+      "inoutbound": "inbound",
+      "ownerId": "903248806",
+      "sdrId": null,
+      "amount": 70000,
+      "nextStep": null
+    },
+    {
+      "dealId": "60464657966",
+      "dealName": "lead - marja.juoperi@britepayments.com",
+      "company": "Brite Payments",
+      "fdmDate": "2026-05-22",
+      "productId": "899310022",
+      "productName": "Informationssäkerhet & Dataskydd (inkl. ISO) (custom)",
+      "sector": "private_sector",
+      "country": "Sweden",
+      "som_sam": null,
+      "dealType": "899310000",
+      "inoutbound": "inbound",
+      "ownerId": "31657355",
+      "sdrId": "82437539",
+      "amount": 70000,
+      "nextStep": null
+    },
+    {
+      "dealId": "60353340051",
+      "dealName": "Botkyrka kommun - externa utföare",
+      "company": "Botkyrka kommun",
+      "fdmDate": "2026-05-20",
+      "productId": "899310028",
+      "productName": "ESG Due Diligence (up to 250 suppliers)",
+      "sector": "public_sector",
+      "country": "Sweden",
+      "som_sam": "sam",
+      "dealType": "899310002",
+      "inoutbound": "outbound",
+      "ownerId": "123158107",
+      "sdrId": null,
+      "amount": 230000,
+      "nextStep": null
+    },
+    {
+      "dealId": "59277429866",
+      "dealName": "Kavli - Due Diligence",
+      "company": "Kavli",
+      "fdmDate": "2026-05-20",
+      "productId": "899310028",
+      "productName": "ESG Due Diligence (custom)",
+      "sector": "private_sector",
+      "country": "Sweden",
+      "som_sam": "som",
+      "dealType": "899310000",
+      "inoutbound": "outbound",
+      "ownerId": "222185120",
+      "sdrId": null,
+      "amount": 70000,
+      "nextStep": null
+    },
     {
       "dealId": "60177888431",
       "dealName": "FM Mattsson Group - HBS",
@@ -112,7 +244,7 @@
     },
     {
       "dealId": "60203043160",
-      "dealName": "lead - david.malmgren@storytel.com",
+      "dealName": "Storytel - Risk & kontroll",
       "company": "Storytel",
       "fdmDate": "2026-05-13",
       "productId": "899310037",
@@ -122,10 +254,10 @@
       "som_sam": "sam",
       "dealType": "899310000",
       "inoutbound": "inbound",
-      "ownerId": "82437539",
+      "ownerId": "31657355",
       "sdrId": "82437539",
-      "amount": 70000,
-      "nextStep": null
+      "amount": 270000,
+      "nextStep": "Möte 26/5 uppföljning"
     },
     {
       "dealId": "58029783078",
@@ -316,7 +448,7 @@
     },
     {
       "dealId": "59434197632",
-      "dealName": "lead - richard.wahlstedt@invid.se",
+      "dealName": "Invid - Infosäk & dataskydd",
       "company": "INVID Gruppen",
       "fdmDate": "2026-05-06",
       "productId": "899310022",
@@ -326,10 +458,10 @@
       "som_sam": null,
       "dealType": "899310000",
       "inoutbound": "inbound",
-      "ownerId": "82437539",
+      "ownerId": "31657355",
       "sdrId": "82437539",
-      "amount": 70000,
-      "nextStep": null
+      "amount": 230000,
+      "nextStep": "Uppföljning i slutet av maj - Ev POC"
     },
     {
       "dealId": "59729825421",
