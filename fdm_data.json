@@ -1,133 +1,43 @@
 {
   "meta": {
-    "updated": "2026-05-26",
-    "month": "2026-05",
-    "target": 20
+    "updated": "2026-06-02",
+    "month": "2026-06",
+    "target": 10
   },
-  "insight": "Maj 2026, period 1–25 maj | Körning 2026-05-26\n\n1. FDM-VOLYM OCH INBOUND-ATTAINMENT\nPer 2026-05-25 uppgår det ackumulerade FDM-utfallet till 27 FDMs, varav 8 är inbound. Mot månads­målet på 20 inbound-FDMs innebär det 40 % attainment med 5 dagar kvar i månaden. Sedan föregående körning (2026-05-19, 21 FDMs, 6 inbound) har 6 nya FDMs tillkommit – varav 2 inbound: Komplett x Stratsys (Risk & kontroll) och Brite Payments (InfoSec). Linjär inbound-takt (0,32 FDMs/dag) projekterar max ~10 inbound-FDMs för hela maj, dvs. 50 % av target. För att nå budget krävs 12 ytterligare inbound-FDMs på 5 dagar – en mer än sexfaldig ökning av dagstakten.\n\n2. JÄMFÖRELSE MED FÖREGÅENDE KÖRNING\nJämfört med körning 2026-05-19 (+6 FDMs totalt, +2 inbound, +33 %): tillkommer Komplett ASA (norsk privat sektor, Risk & kontroll, inbound) och Brite Payments (svensk FinTech/OpenBanking, InfoSec, inbound), samt fyra outbound-FDMs (Botkyrka och Oskarshamns kommuner – ESG DD utförare-expansion, Stena Metall och Kavli – ESG DD privat). Inbound-andelen har förbättrats från 29 % till 30 % men är fortfarande kritiskt låg mot budget.\n\n3. PRODUKTER OCH SEGMENT SOM DRIVER RESULTATEN\nESG Due Diligence (899310028) dominerar volymen med 15 FDMs (56 %) – samtliga outbound. Mönstret drivs av kommunala leverantörsuppföljningsaffärer (externa utföare) i koordinerade kluster. GRC-segmentet (Informationssäkerhet 899310022, Risk & kontroll 899310037, Cyber DD 899310031) svarar för 8 FDMs varav 7 är inbound – exceptionellt hög inbound-konverteringsgrad (88 %). Hållbarhetsstyrning (899310011): 3 FDMs, alla outbound. Kvalitetsarbete (899310013): 1 FDM inbound (Socialstyrelsen). Sammantaget är inbound uteslutande GRC-drivet; ESG/HBS genererar noll inbound i maj.\n\n4. KOPPLING TILL MARKNADSLÄGET\nEU Omnibus I (18 mars 2026) och CSRD-scopereduceringen (>1 000 anst. och >€450 M omsättning) bekräftas i datan: privat HBS-inbound = noll, privat ESG-inbound = noll i maj. Kommunal ESG DD (leverantörsuppföljning) är robust eftersom drivkraften är intern styrning snarare än CSRD-compliance. NIS2 och den svenska cybersäkerhetslagen är den enda regelkomponenten som genererar inbound-momentum i maj. Komplett ASA (norsk privat sektor, 1 550 anst.) och Brite Payments (FinTech, 83 anst.) bekräftar att InfoSec/GRC-behovet är brett och segmentöverskridande. Stratsys strategiska pivot mot GRC är rätt i timing – men inbound-pipeline-volymen måste skalas upp 2–3x för att nå budget.\n\n5. RISKER OCH BEVAKNINGSPUNKTER\n1. Inbound-gap är kritiskt: 12 ytterligare inbound-FDMs krävs på 5 dagar (>2,4/dag). Realistisk prognos: 9–10 inbound-FDMs för hela maj, ca 50 % attainment.\n2. ESG-outbound-kluster blåser upp totalvolymen: koordinerade kluster (7 maj ×7 kommuner, 20 maj ×2, 25 maj ×2) skapar en utbulkad pipeline som inte reflekterar inbound-hälsan. Risk att bilden upplevs som starkare än den är.\n3. Norrköpings next-step: texten 'Boka FDM' kvarstår trots FDM-datum 2026-05-11. AE behöver korrigera affärsstatus omgående.\n4. Stratsys AI-licens-affärer: Region Stockholm AI (2026-05-11), Region Jönköpings Län AI (2026-05-04) och Region Halland AI (2026-05-08) har AI-licensaffärer med FDM-datum i maj men saknar whitelistade produktkoder (hs_sku) → räknas inte in i tracking. Dessa representerar ett potentiellt underkvalitetsfel i CRM-inmatningen. Säkerställ att custom-produktkod sätts vid FDM-registrering.\n\n6. REKOMMENDATION\nMobilisera SDR-resurser v22 mot tre prioriterade GRC-spår: (1) kommuner med obearbetad NIS2-exponering för InfoSec-inbound, (2) medelstora privata FinTech- och IT-bolag (profil: Brite Payments, INVID) för InfoSec/Cyber DD, (3) medelstora privata bolag i industri och handel (profil: Komplett, Storytel) för Risk & kontroll. Dessa profiler har bekräftad inbound-konverteringshistorik denna vecka. Parallellt: inför krav på att hs_sku alltid sätts vid FDM-registrering – utan detta kan inbound-attainment inte mätas korrekt och AI-licens­affärer förblir osynliga i trackningen.",
+  "insight": "Juni 2026, period 1–1 juni | Körning 2026-06-02\n\n1. FDM-VOLYM OCH INBOUND-ATTAINMENT\nPer 2026-06-01 (dag 1 av juni) uppgår FDM-utfallet till 4 FDMs, samtliga outbound och av typen expansion. Mot månads­målet på 10 inbound-FDMs är inbound-attainment 0 % – förväntad dag 1, men inga inbound-FDMs är ännu registrerade. En femte deal (Lysekils kommun, deal 60177492994) saknar prissatt produktrad och räknas inte som FDM i trackningen.\n\n2. JÄMFÖRELSE MED FÖREGÅENDE MÅNAD\nMaj 2026 avslutades med 27 FDMs totalt och 8 inbound (40 % attainment mot mål 20). Juni inleds med ett halverat mål (10) och 4 outbound-FDMs dag 1. För att nå budget krävs 10 inbound-FDMs under resterande 28 dagar – ca 0,36 inbound/dag – en takt som ännu inte är etablerad. Jämfört med majs inledning (dag 1 i maj: 0 registrerade FDMs) är volymen bättre dag 1 men inbound-andelen identisk: noll.\n\n3. PRODUKTER OCH SEGMENT SOM DRIVER RESULTATEN\nAlla 4 FDMs rör ESG Due Diligence (899310028) för externa utförare i kommunal sektor: Burlöv (1 276 anst.), Sundbyberg (2 339 anst.), Region Kalmar Län (7 291 anst.) och Nacka kommun (3 500 anst.). Samtliga affärer ägs av Carl Lundahl, alla är utökningar (expansion) av befintliga kunder, och genomsnittligt affärsvärde är 230 000 SEK. Inget GRC-, InfoSec- eller NIS2-relaterat FDM har registrerats i juni ännu.\n\n4. KOPPLING TILL MARKNADSLÄGET\nEU Omnibus I (ikraft 18 mars 2026) reducerade kraftigt CSRD:s räckvidd och CSDDD är försenad till juli 2028. Kommunal ESG DD för leverantörsgranskning är dock mer motståndskraftig mot Omnibus-effekten: drivkraften är LOU och intern kommunal styrning snarare än CSRD-compliance, vilket förklarar att segmentet fortsätter att generera outbound-FDMs. NIS2 och den svenska cybersäkerhetslagen – som drev 7 av 8 inbound-FDMs i maj – är ännu frånvarande i junis FDM-flöde. Stratsys fokuspivot mot GRC borde generera inbound-volym framöver, men syns inte dag 1.\n\n5. RISKER OCH BEVAKNINGSPUNKTER\n1. Noll inbound hittills: Hela juni-målet (10 inbound) kvarstår. Utan snabb inbound-aktivering riskerar sommardip (v25–v30) att äventyra attainment.\n2. ESG DD-koncentration och ägarkoncentration: Fyra av fyra FDMs ägs av en och samma AE (Carl Lundahl) och berör ett och samma segment. Ingen SDR-driven aktivitet och inga GRC/InfoSec-affärer syns dag 1.\n3. Datakvalitet – Lysekils kommun: Deal 60177492994 saknar produktrader. Affären har FDM-datum satt men kan inte trackeras som FDM. Carl Lundahl behöver komplettera med korrekt produktrad snarast.\n4. Sommarsäsong: Med semesterpåverkan från v25 är den effektiva inbound-perioden i juni kort. Inbound-leadflödet riskerar att minska kraftigt efter midsommar.\n\n6. REKOMMENDATION\nPrioritera omedelbar SDR-driven prospektering mot GRC-segmentet (InfoSec, NIS2, Cyber DD, Risk & kontroll) – det enda segment med stark bekräftad inbound-konverteringshistorik i maj (7 av 8 inbound-FDMs). Rikta insatserna mot kommuner med obearbetad NIS2-exponering och medelstora privata bolag (200–2 000 anst.) i IT, finans och industri. Agera nu, innan semestersäsongen bromsar inbound-flödet. Åtgärda dessutom Lysekils-dealen: lägg till korrekt produktrad (ESG DD, 899310028) så att FDM-mötet syns i trackningen.",
   "companyData": {
-    "FM Mattsson Group": {
-      "employees": 1000,
-      "revenue": 100000000,
-      "desc": "FM Mattsson Group is the largest Scandinavian manufacturer of taps and mixers under the well established brands FM Mattsson, Mora Armatur and Damixa. The Group has production facilities in both Denmark and Sweden with modern and fully automated production."
-    },
-    "Storytel": {
-      "employees": 278,
-      "revenue": 1389796000,
-      "desc": "Storytel is a leading global audiobook and e-book streaming service with thousands of titles covering all genres, available on iOS and Android."
-    },
-    "Gislaveds Kommun": {
-      "employees": 2878,
-      "revenue": 1000000000,
-      "desc": "Gislaveds Kommun provides local government services and administrative support to the residents of Gislaved."
-    },
-    "Gävle Kommun": {
-      "employees": 6890,
-      "revenue": 1000000000,
-      "desc": "Gävle Kommun provides services to the local community, offering information on local events and opportunities for residents to participate in shaping their municipality."
-    },
-    "Växjö kommun": {
-      "employees": 7100,
-      "revenue": 1000000000,
-      "desc": "Växjö kommun is a government administration entity that aims to provide information and services to residents, businesses, and visitors, with a focus on sustainability and community well-being."
-    },
-    "Ronneby kommun": {
-      "employees": 118,
-      "revenue": 373935000,
-      "desc": "Ronneby kommun is a government administration company located in the modern spa town of Ronneby. With a population of 29,600, Ronneby is committed to developing a sustainable society with a focus on people."
-    },
-    "Södertälje Kommun": {
-      "employees": 98468,
-      "revenue": 1000000000,
-      "desc": "Södertälje Kommun erbjuder information om kommunens verksamheter och guidar dig i hur du kan hantera dina ärenden effektivt."
-    },
-    "Tierps kommun": {
-      "employees": 1000,
+    "Burlöv": {
+      "employees": 1276,
       "revenue": 250000000,
-      "desc": "Tierp Kommun provides essential municipal services to the residents of Tierp, including public administration, local governance, and community support."
+      "desc": "Burlöv is a vibrant community located in the Öresundsregionen, serving as a creative meeting place for residents, businesses, development, and culture with good transportation links and a lively atmosphere."
     },
-    "Åmåls kommun": {
-      "employees": 1346,
-      "revenue": 250000000,
-      "desc": "Åmål Kommun provides local government services and support to the residents of Åmål, including public administration, community development, and municipal infrastructure."
+    "Sundbyberg": {
+      "employees": 2339,
+      "revenue": 500000000,
+      "desc": "Sundbyberg provides official information, services, and support for residents, businesses, and visitors within the municipality."
     },
-    "Jernhusen AB": {
-      "employees": 174,
-      "revenue": 328000000,
-      "desc": "Jernhusen is a company specialized in properties near the railway, contributing to increasing the number of people traveling and transporting goods by train."
+    "Region Kalmar Län": {
+      "employees": 7291,
+      "revenue": 1000000000,
+      "desc": "Region Kalmar Län provides public services and healthcare to the residents of Kalmar County, Sweden."
     },
-    "Socialstyrelsen": {
-      "employees": 700,
-      "revenue": 250000000,
-      "desc": "Socialstyrelsen hjälper människor i Sverige att få tillgång till god vård och omsorg på lika villkor genom att vara Sveriges kunskapsmyndighet för vård och omsorg."
-    },
-    "RISE Research Institutes of Sweden AB": {
-      "employees": 2859,
-      "revenue": 3694771000,
-      "desc": "RISE Research Institutes of Sweden is a state-owned research institute that collaborates with academia, industry, and society. With over 3300 employees, RISE offers specialized competencies and R&D services to enhance competitiveness and promote sustainability."
-    },
-    "Felleskjøpet Rogaland Agder": {
-      "employees": 270,
-      "revenue": null,
-      "desc": "Felleskjøpet Rogaland Agder serves as a key partner in the agricultural sector, providing equipment, products, and services designed to enhance farming efficiency and profitability, while also focusing on food safety initiatives."
-    },
-    "Bellman Group": {
-      "employees": 180,
-      "revenue": 207496000,
-      "desc": "Bellman Group helps clients build sustainably and circularly through its comprehensive range of services."
-    },
-    "Fastighets AB Balder": {
-      "employees": 474,
-      "revenue": 529000000,
-      "desc": "Fastighetsbolag med fokus på bostäder, kontor och kommersiella fastigheter i Norden."
-    },
-    "INVID Gruppen": {
-      "employees": 200,
+    "Lysekils kommun": {
+      "employees": 1633,
       "revenue": 50000000,
-      "desc": "INVID Gruppen is a proactive IT partner that simplifies and improves IT processes, providing solutions that support and develop businesses with a focus on efficiency and security."
+      "desc": "Lysekils Kommun provides local government services and support to the residents of Lysekil, including public administration, community development, and local infrastructure management."
     },
-    "Norrköpings kommun": {
+    "Nacka kommun": {
       "employees": 3500,
       "revenue": 10000000000,
-      "desc": "Norrköping provides public services and administrative support to its residents through a range of municipal operations."
-    },
-    "Oskarshamns kommun": {
-      "employees": 26928,
-      "revenue": 500000000,
-      "desc": "Oskarshamns kommun provides essential services to residents, businesses, and visitors with a focus on community engagement and continuous recruitment of skilled professionals."
-    },
-    "Stena Metall": {
-      "employees": 106,
-      "revenue": 74054000,
-      "desc": "Varje år återvinner Stena spillolja som motsvarar en 50 km lång tankbilskaravan, fullastad med råolja."
-    },
-    "Komplett ASA": {
-      "employees": 1550,
-      "revenue": 250000000,
-      "desc": "Komplett Group is the largest online-first electronics retailer with a core focus on consumer electronics and gaming products in Scandinavia, continuously at the forefront of online retail and e-commerce development."
-    },
-    "Brite Payments": {
-      "employees": 83,
-      "revenue": null,
-      "desc": "Brite Payments revolutionizes payments with Open Banking technology, providing instant and secure Account to Account transactions for consumers and merchants alike."
-    },
-    "Botkyrka kommun": {
-      "employees": 6120,
-      "revenue": 1000000000,
-      "desc": "Botkyrka Kommun provides information about local services and activities such as schools, care, job opportunities, culture, leisure, traffic, building permits, and politics."
-    },
-    "Kavli": {
-      "employees": 35,
-      "revenue": 50000000,
-      "desc": "O Kavli AB manufactures cheese products including natural cheese, processed cheese, cheese foods, cheese spreads, and cheese analogs for distribution throughout Sweden."
+      "desc": "Nacka kommun is dedicated to making Nacka an attractive place to live, work, and visit. With a population of over 100,000 residents, the municipality focuses on efficient resource utilization, strong citizen participation, and a wide range of services. Nacka provides the best conditions for creativity, innovation, and knowledge sharing across all its operations."
     }
   },
   "fdms": [
     {
-      "dealId": "60486884353",
-      "dealName": "Oskarshamns kommun - externa utföare",
-      "company": "Oskarshamns kommun",
-      "fdmDate": "2026-05-25",
+      "dealId": "60778999938",
+      "dealName": "Burlöv - Externa utförare",
+      "company": "Burlöv",
+      "fdmDate": "2026-06-01",
       "productId": "899310028",
       "productName": "ESG Due Diligence (up to 250 suppliers)",
       "sector": "public_sector",
@@ -141,61 +51,10 @@
       "nextStep": null
     },
     {
-      "dealId": "60525040256",
-      "dealName": "Stena Metall - Due Diligence",
-      "company": "Stena Metall",
-      "fdmDate": "2026-05-25",
-      "productId": "899310028",
-      "productName": "ESG Due Diligence (custom)",
-      "sector": "private_sector",
-      "country": "Sweden",
-      "som_sam": null,
-      "dealType": "899310002",
-      "inoutbound": "outbound",
-      "ownerId": "523874116",
-      "sdrId": null,
-      "amount": 70000,
-      "nextStep": null
-    },
-    {
-      "dealId": "60447338324",
-      "dealName": "Komplett x Stratsys",
-      "company": "Komplett ASA",
-      "fdmDate": "2026-05-22",
-      "productId": "899310037",
-      "productName": "Risk och kontroll produktlicens (custom)",
-      "sector": "private_sector",
-      "country": "Norway",
-      "som_sam": "sam",
-      "dealType": "899310000",
-      "inoutbound": "inbound",
-      "ownerId": "903248806",
-      "sdrId": null,
-      "amount": 70000,
-      "nextStep": null
-    },
-    {
-      "dealId": "60464657966",
-      "dealName": "lead - marja.juoperi@britepayments.com",
-      "company": "Brite Payments",
-      "fdmDate": "2026-05-22",
-      "productId": "899310022",
-      "productName": "Informationssäkerhet & Dataskydd (inkl. ISO) (custom)",
-      "sector": "private_sector",
-      "country": "Sweden",
-      "som_sam": null,
-      "dealType": "899310000",
-      "inoutbound": "inbound",
-      "ownerId": "31657355",
-      "sdrId": "82437539",
-      "amount": 70000,
-      "nextStep": null
-    },
-    {
-      "dealId": "60353340051",
-      "dealName": "Botkyrka kommun - externa utföare",
-      "company": "Botkyrka kommun",
-      "fdmDate": "2026-05-20",
+      "dealId": "60667708246",
+      "dealName": "Sundbyberg - Externa utförare",
+      "company": "Sundbyberg",
+      "fdmDate": "2026-06-01",
       "productId": "899310028",
       "productName": "ESG Due Diligence (up to 250 suppliers)",
       "sector": "public_sector",
@@ -209,78 +68,10 @@
       "nextStep": null
     },
     {
-      "dealId": "59277429866",
-      "dealName": "Kavli - Due Diligence",
-      "company": "Kavli",
-      "fdmDate": "2026-05-20",
-      "productId": "899310028",
-      "productName": "ESG Due Diligence (custom)",
-      "sector": "private_sector",
-      "country": "Sweden",
-      "som_sam": "som",
-      "dealType": "899310000",
-      "inoutbound": "outbound",
-      "ownerId": "222185120",
-      "sdrId": null,
-      "amount": 70000,
-      "nextStep": null
-    },
-    {
-      "dealId": "60177888431",
-      "dealName": "FM Mattsson Group - HBS",
-      "company": "FM Mattsson Group",
-      "fdmDate": "2026-05-13",
-      "productId": "899310011",
-      "productName": "Hållbarhetsstyrning produktlicens (custom)",
-      "sector": "private_sector",
-      "country": "Sweden",
-      "som_sam": null,
-      "dealType": "899310000",
-      "inoutbound": "outbound",
-      "ownerId": "222185120",
-      "sdrId": null,
-      "amount": 70000,
-      "nextStep": null
-    },
-    {
-      "dealId": "60203043160",
-      "dealName": "Storytel - Risk & kontroll",
-      "company": "Storytel",
-      "fdmDate": "2026-05-13",
-      "productId": "899310037",
-      "productName": "Risk och kontroll produktlicens (custom)",
-      "sector": "private_sector",
-      "country": "Sweden",
-      "som_sam": "sam",
-      "dealType": "899310000",
-      "inoutbound": "inbound",
-      "ownerId": "31657355",
-      "sdrId": "82437539",
-      "amount": 270000,
-      "nextStep": "Möte 26/5 uppföljning"
-    },
-    {
-      "dealId": "58029783078",
-      "dealName": "Norrköpings kommun - Infosäk",
-      "company": "Norrköpings kommun",
-      "fdmDate": "2026-05-11",
-      "productId": "899310022",
-      "productName": "Informationssäkerhet & Dataskydd (inkl. ISO) (custom)",
-      "sector": "public_sector",
-      "country": "Sweden",
-      "som_sam": "sam",
-      "dealType": "899310002",
-      "inoutbound": "outbound",
-      "ownerId": "99632798",
-      "sdrId": null,
-      "amount": 252000,
-      "nextStep": "Boka FDM. Kristin ska ta kontakt under våren, hon började för två veckor sedan så hon vill vänta lite innan hon bokar in ett möte."
-    },
-    {
-      "dealId": "60073032760",
-      "dealName": "Gislaveds Kommun - Externa utförare",
-      "company": "Gislaveds Kommun",
-      "fdmDate": "2026-05-07",
+      "dealId": "60219784985",
+      "dealName": "Region Kalmar Län - externa utförare",
+      "company": "Region Kalmar Län",
+      "fdmDate": "2026-06-01",
       "productId": "899310028",
       "productName": "ESG Due Diligence (up to 250 suppliers)",
       "sector": "public_sector",
@@ -294,10 +85,10 @@
       "nextStep": null
     },
     {
-      "dealId": "60064193140",
-      "dealName": "Gävle Kommun - Externa utförare",
-      "company": "Gävle Kommun",
-      "fdmDate": "2026-05-07",
+      "dealId": "60142268516",
+      "dealName": "Nacka kommun - Externa utförare",
+      "company": "Nacka kommun",
+      "fdmDate": "2026-06-01",
       "productId": "899310028",
       "productName": "ESG Due Diligence (up to 250 suppliers)",
       "sector": "public_sector",
@@ -309,278 +100,6 @@
       "sdrId": null,
       "amount": 230000,
       "nextStep": null
-    },
-    {
-      "dealId": "60068776072",
-      "dealName": "Växjö kommun - Externa utförare",
-      "company": "Växjö kommun",
-      "fdmDate": "2026-05-07",
-      "productId": "899310028",
-      "productName": "ESG Due Diligence (up to 250 suppliers)",
-      "sector": "public_sector",
-      "country": "Sweden",
-      "som_sam": "sam",
-      "dealType": "899310002",
-      "inoutbound": "outbound",
-      "ownerId": "123158107",
-      "sdrId": null,
-      "amount": 230000,
-      "nextStep": null
-    },
-    {
-      "dealId": "60064191499",
-      "dealName": "Ronneby kommun - Externa utförare",
-      "company": "Ronneby kommun",
-      "fdmDate": "2026-05-07",
-      "productId": "899310028",
-      "productName": "ESG Due Diligence (up to 250 suppliers)",
-      "sector": "public_sector",
-      "country": "Sweden",
-      "som_sam": null,
-      "dealType": "899310002",
-      "inoutbound": "outbound",
-      "ownerId": "123158107",
-      "sdrId": null,
-      "amount": 230000,
-      "nextStep": null
-    },
-    {
-      "dealId": "60068775171",
-      "dealName": "Södertälje Kommun - Externa utförare",
-      "company": "Södertälje Kommun",
-      "fdmDate": "2026-05-07",
-      "productId": "899310028",
-      "productName": "ESG Due Diligence (up to 250 suppliers)",
-      "sector": "public_sector",
-      "country": "Sweden",
-      "som_sam": "sam",
-      "dealType": "899310002",
-      "inoutbound": "outbound",
-      "ownerId": "123158107",
-      "sdrId": null,
-      "amount": 230000,
-      "nextStep": null
-    },
-    {
-      "dealId": "60068775978",
-      "dealName": "Tierps kommun - Externa utförare",
-      "company": "Tierps kommun",
-      "fdmDate": "2026-05-07",
-      "productId": "899310028",
-      "productName": "ESG Due Diligence (up to 250 suppliers)",
-      "sector": "public_sector",
-      "country": "Sweden",
-      "som_sam": "sam",
-      "dealType": "899310002",
-      "inoutbound": "outbound",
-      "ownerId": "123158107",
-      "sdrId": null,
-      "amount": 230000,
-      "nextStep": null
-    },
-    {
-      "dealId": "60064186626",
-      "dealName": "Åmåls kommun - Externa utförare",
-      "company": "Åmåls kommun",
-      "fdmDate": "2026-05-07",
-      "productId": "899310028",
-      "productName": "ESG Due Diligence (up to 250 suppliers)",
-      "sector": "public_sector",
-      "country": "Sweden",
-      "som_sam": "sam",
-      "dealType": "899310002",
-      "inoutbound": "outbound",
-      "ownerId": "123158107",
-      "sdrId": null,
-      "amount": 230000,
-      "nextStep": null
-    },
-    {
-      "dealId": "60040389029",
-      "dealName": "Jernhusen AB - ESG DD",
-      "company": "Jernhusen AB",
-      "fdmDate": "2026-05-06",
-      "productId": "899310028",
-      "productName": "ESG Due Diligence (up to 250 suppliers)",
-      "sector": "private_sector",
-      "country": "Sweden",
-      "som_sam": "sam",
-      "dealType": "899310002",
-      "inoutbound": "outbound",
-      "ownerId": "76536093",
-      "sdrId": null,
-      "amount": 230000,
-      "nextStep": "FDM 25/11"
-    },
-    {
-      "dealId": "60032288299",
-      "dealName": "lead - riikka.jaaskelainen@socialstyrelsen.se",
-      "company": "Socialstyrelsen",
-      "fdmDate": "2026-05-06",
-      "productId": "899310013",
-      "productName": "Kvalitetsarbete produktlicens (custom)",
-      "sector": "public_sector",
-      "country": "Sweden",
-      "som_sam": "sam",
-      "dealType": "899310000",
-      "inoutbound": "inbound",
-      "ownerId": "31031717",
-      "sdrId": "82437539",
-      "amount": 70000,
-      "nextStep": null
-    },
-    {
-      "dealId": "60006031873",
-      "dealName": "RISE - GRC",
-      "company": "RISE Research Institutes of Sweden AB",
-      "fdmDate": "2026-05-06",
-      "productId": "899310037",
-      "productName": "Risk och kontroll produktlicens (custom)",
-      "sector": "public_sector",
-      "country": "Sweden",
-      "som_sam": "sam",
-      "dealType": "899310000",
-      "inoutbound": "inbound",
-      "ownerId": "31657355",
-      "sdrId": "82437539",
-      "amount": 270000,
-      "nextStep": null
-    },
-    {
-      "dealId": "59434197632",
-      "dealName": "Invid - Infosäk & dataskydd",
-      "company": "INVID Gruppen",
-      "fdmDate": "2026-05-06",
-      "productId": "899310022",
-      "productName": "Informationssäkerhet & Dataskydd (inkl. ISO) (custom)",
-      "sector": null,
-      "country": "Sweden",
-      "som_sam": null,
-      "dealType": "899310000",
-      "inoutbound": "inbound",
-      "ownerId": "31657355",
-      "sdrId": "82437539",
-      "amount": 230000,
-      "nextStep": "Uppföljning i slutet av maj - Ev POC"
-    },
-    {
-      "dealId": "59729825421",
-      "dealName": "Bellman Group - HBS",
-      "company": "Bellman Group",
-      "fdmDate": "2026-05-05",
-      "productId": "899310011",
-      "productName": "Hållbarhetsstyrning (100-250 anställda)",
-      "sector": "private_sector",
-      "country": "Sweden",
-      "som_sam": "som",
-      "dealType": "899310000",
-      "inoutbound": "outbound",
-      "ownerId": "76536093",
-      "sdrId": null,
-      "amount": 245000,
-      "nextStep": "FDM 2007 mars bokad redan nu."
-    },
-    {
-      "dealId": "59727976851",
-      "dealName": "Bellman Group - ESG DD",
-      "company": "Bellman Group",
-      "fdmDate": "2026-05-05",
-      "productId": "899310028",
-      "productName": "ESG Due Diligence (up to 250 suppliers)",
-      "sector": "private_sector",
-      "country": "Sweden",
-      "som_sam": "som",
-      "dealType": "899310000",
-      "inoutbound": "outbound",
-      "ownerId": "76536093",
-      "sdrId": null,
-      "amount": 230000,
-      "nextStep": "FDM 2007 mars bokad redan nu."
-    },
-    {
-      "dealId": "59569796169",
-      "dealName": "Fastighets AB Balder - ESG DD",
-      "company": "Fastighets AB Balder",
-      "fdmDate": "2026-05-05",
-      "productId": "899310028",
-      "productName": "ESG Due Diligence (up to 250 suppliers)",
-      "sector": "private_sector",
-      "country": "Sweden",
-      "som_sam": "som",
-      "dealType": "899310000",
-      "inoutbound": "outbound",
-      "ownerId": "76536093",
-      "sdrId": null,
-      "amount": 230000,
-      "nextStep": "FDM 3/6"
-    },
-    {
-      "dealId": "59545423944",
-      "dealName": "Fastighets AB Balder - HBS",
-      "company": "Fastighets AB Balder",
-      "fdmDate": "2026-05-05",
-      "productId": "899310011",
-      "productName": "Hållbarhetsstyrning (250-500 anställda)",
-      "sector": "private_sector",
-      "country": "Sweden",
-      "som_sam": "som",
-      "dealType": "899310000",
-      "inoutbound": "outbound",
-      "ownerId": "76536093",
-      "sdrId": null,
-      "amount": 290000,
-      "nextStep": "FDM 3/6"
-    },
-    {
-      "dealId": "59915089559",
-      "dealName": "Felleskjøpet RA x Stratsys",
-      "company": "Felleskjøpet Rogaland Agder",
-      "fdmDate": "2026-05-04",
-      "productId": "899310028",
-      "productName": "ESG Due Diligence (up to 1000 suppliers)",
-      "sector": "private_sector",
-      "country": "Norway",
-      "som_sam": null,
-      "dealType": "899310000",
-      "inoutbound": "outbound",
-      "ownerId": "903248806",
-      "sdrId": null,
-      "amount": 310000,
-      "nextStep": "FDM 6.05"
-    },
-    {
-      "dealId": "59798350713",
-      "dealName": "Felleskjøpet RA x Stratsys: INFOSEC",
-      "company": "Felleskjøpet Rogaland Agder",
-      "fdmDate": "2026-05-04",
-      "productId": "899310031",
-      "productName": "Cyber Due Diligence (up to 250 suppliers)",
-      "sector": "private_sector",
-      "country": "Norway",
-      "som_sam": null,
-      "dealType": "899310000",
-      "inoutbound": "inbound",
-      "ownerId": "903248806",
-      "sdrId": "82437539",
-      "amount": 370500,
-      "nextStep": "Gjennomgang av tilbud 11.05"
-    },
-    {
-      "dealId": "59798350713",
-      "dealName": "Felleskjøpet RA x Stratsys: INFOSEC",
-      "company": "Felleskjøpet Rogaland Agder",
-      "fdmDate": "2026-05-04",
-      "productId": "899310022",
-      "productName": "Informationssäkerhet & Dataskydd ink ISO (500-1000 anställda)",
-      "sector": "private_sector",
-      "country": "Norway",
-      "som_sam": null,
-      "dealType": "899310000",
-      "inoutbound": "inbound",
-      "ownerId": "903248806",
-      "sdrId": "82437539",
-      "amount": 370500,
-      "nextStep": "Gjennomgang av tilbud 11.05"
     }
   ]
 }
