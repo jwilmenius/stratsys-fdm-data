@@ -1,15 +1,80 @@
 {
   "meta": {
-    "updated": "2026-06-02",
+    "updated": "2026-06-09",
     "month": "2026-06",
     "target": 10
   },
-  "insight": "Juni 2026, period 1–1 juni | Körning 2026-06-02\n\n1. FDM-VOLYM OCH INBOUND-ATTAINMENT\nPer 2026-06-01 (dag 1 av juni) uppgår FDM-utfallet till 4 FDMs, samtliga outbound och av typen expansion. Mot månads­målet på 10 inbound-FDMs är inbound-attainment 0 % – förväntad dag 1, men inga inbound-FDMs är ännu registrerade. En femte deal (Lysekils kommun, deal 60177492994) saknar prissatt produktrad och räknas inte som FDM i trackningen.\n\n2. JÄMFÖRELSE MED FÖREGÅENDE MÅNAD\nMaj 2026 avslutades med 27 FDMs totalt och 8 inbound (40 % attainment mot mål 20). Juni inleds med ett halverat mål (10) och 4 outbound-FDMs dag 1. För att nå budget krävs 10 inbound-FDMs under resterande 28 dagar – ca 0,36 inbound/dag – en takt som ännu inte är etablerad. Jämfört med majs inledning (dag 1 i maj: 0 registrerade FDMs) är volymen bättre dag 1 men inbound-andelen identisk: noll.\n\n3. PRODUKTER OCH SEGMENT SOM DRIVER RESULTATEN\nAlla 4 FDMs rör ESG Due Diligence (899310028) för externa utförare i kommunal sektor: Burlöv (1 276 anst.), Sundbyberg (2 339 anst.), Region Kalmar Län (7 291 anst.) och Nacka kommun (3 500 anst.). Samtliga affärer ägs av Carl Lundahl, alla är utökningar (expansion) av befintliga kunder, och genomsnittligt affärsvärde är 230 000 SEK. Inget GRC-, InfoSec- eller NIS2-relaterat FDM har registrerats i juni ännu.\n\n4. KOPPLING TILL MARKNADSLÄGET\nEU Omnibus I (ikraft 18 mars 2026) reducerade kraftigt CSRD:s räckvidd och CSDDD är försenad till juli 2028. Kommunal ESG DD för leverantörsgranskning är dock mer motståndskraftig mot Omnibus-effekten: drivkraften är LOU och intern kommunal styrning snarare än CSRD-compliance, vilket förklarar att segmentet fortsätter att generera outbound-FDMs. NIS2 och den svenska cybersäkerhetslagen – som drev 7 av 8 inbound-FDMs i maj – är ännu frånvarande i junis FDM-flöde. Stratsys fokuspivot mot GRC borde generera inbound-volym framöver, men syns inte dag 1.\n\n5. RISKER OCH BEVAKNINGSPUNKTER\n1. Noll inbound hittills: Hela juni-målet (10 inbound) kvarstår. Utan snabb inbound-aktivering riskerar sommardip (v25–v30) att äventyra attainment.\n2. ESG DD-koncentration och ägarkoncentration: Fyra av fyra FDMs ägs av en och samma AE (Carl Lundahl) och berör ett och samma segment. Ingen SDR-driven aktivitet och inga GRC/InfoSec-affärer syns dag 1.\n3. Datakvalitet – Lysekils kommun: Deal 60177492994 saknar produktrader. Affären har FDM-datum satt men kan inte trackeras som FDM. Carl Lundahl behöver komplettera med korrekt produktrad snarast.\n4. Sommarsäsong: Med semesterpåverkan från v25 är den effektiva inbound-perioden i juni kort. Inbound-leadflödet riskerar att minska kraftigt efter midsommar.\n\n6. REKOMMENDATION\nPrioritera omedelbar SDR-driven prospektering mot GRC-segmentet (InfoSec, NIS2, Cyber DD, Risk & kontroll) – det enda segment med stark bekräftad inbound-konverteringshistorik i maj (7 av 8 inbound-FDMs). Rikta insatserna mot kommuner med obearbetad NIS2-exponering och medelstora privata bolag (200–2 000 anst.) i IT, finans och industri. Agera nu, innan semestersäsongen bromsar inbound-flödet. Åtgärda dessutom Lysekils-dealen: lägg till korrekt produktrad (ESG DD, 899310028) så att FDM-mötet syns i trackningen.",
+  "insight": "Juni 2026 | Dag 1–8 | Körning 2026-06-09\n\n1. FDM-VOLYM OCH INBOUND-ATTAINMENT\nMellan 1–8 juni har 19 FDMs registrerats (månadsmål: 10 inbound). Av dessa är 6 inbound: Håbo (ESG DD, expansion), Samhall (Risk & Kontroll, new biz), OKQ8 (ESG DD custom, new biz), Sørbø (ESG DD custom, new biz, Norge), VaccinDirekt (Kvalitet vård, new biz) och Reitan Convenience Denmark (Risk & Kontroll, new biz). Inbound-attainment: 6/10 = 60 % på dag 8. Lysekils kommun (deal 60177492994) saknar produktrad och räknas inte in. En \"Professional (250-500 employees)\"-rad (125 000 kr) på Vaccindirekts-dealen saknar produkt-ID (hs_sku) och räknas inte som separat FDM – datakvalitetsärende.\n\n2. JÄMFÖRELSE MED FÖREGÅENDE MÅNAD\nMaj 2026 avslutades med 27 totala FDMs och 8 inbound (40 % attainment mot mål 20). Juni startar avsevärt starkare: 19 FDMs på 8 dagar (2,4 FDMs/dag) mot majs 0,87/dag. Inbound-takten 0,75/dag projicerar till ~22 inbound vid full månadslängd. Semestersäsongen (v24–30) bromsar dock troligen takten med 40–50 %. Konservativ prognos: 12–15 inbound-FDMs för juni – klart ovan målet 10. Ytterligare 4 inbound-FDMs behöver stängas senast vecka 24 för att ligga komfortabelt.\n\n3. PRODUKTER OCH SEGMENT SOM DRIVER RESULTATEN\nESG Due Diligence (899310028) dominerar med 11 av 19 FDMs (58 %), varav 8 bland kommuner (externa utförare-granskning via LOU): Burlöv, Nacka, Region Kalmar, Sundbyberg, Håbo, Hofors, BST Group och Bergs. Hållbarhetsstyrning (899310011) genererar 4 FDMs: Attendo (vård, privat, 290K), Castellum (fastighet, privat, 70K), Azets (redovisning, privat, 70K) och Folksam (försäkring, privat, 70K). Risk & Kontroll (899310037) levererar 2 inbound-FDMs: Samhall (320K, SDR-driven) och Reitan Convenience Denmark (70K, inbound). Kvalitet vård (899310015): VaccinDirekt (395K, SDR-driven, inbound). Cyber DD (899310033): Tobii Dynavox (outbound, 0 kr – pris ej satt). Geografisk mix: 17 Sverige + 1 Norge (Sørbø) + 1 Danmark (Reitan) – indikerar Nordic-expansion.\n\n4. KOPPLING TILL MARKNADSLÄGET\nEU Omnibus I (ikraft 18 mars 2026) har reducerat CSRD-scope kraftigt men kommunal ESG DD kvarstår robust – drivkraften är LOU och intern kommunal styrning, inte CSRD. 8 av 11 ESG DD-FDMs är kommuner vilket bekräftar segmentets immunitet mot Omnibus-effekten. Hållbarhetsstyrning i privat sektor (Attendo, Castellum, Azets, Folksam) visar att kommersiell ESG-styrning överlever Omnibus-turbulensen, sannolikt för att Stratsys bredare GRC-argument minskar CSRD-beroendet. GRC-pivoten materialiseras tydligt: Risk & Kontroll (Samhall, Reitan) och Cyber DD (Tobii Dynavox) signalerar ökad NIS2- och cybersäkerhetsdriven efterfrågan kopplad till den svenska cybersäkerhetslagen. CSDDD-förseningen till 2028 verkar inte ha dämpat ESG DD-flödet – troligen för att kommunernas upphandlingsbehov av leverantörsgranskning är politiskt och procedurellt förankrat oberoende av EU-direktiv.\n\n5. RISKER OCH BEVAKNINGSPUNKTER\n1. Semestersäsong: Inbound-flödet riskerar halveras v24–30. De 4 saknade inbound-FDMs (för att nå 10) måste sannolikt stängas senast v24 (14–19 juni).\n2. Carl Lundahl-koncentration: Ägare 123158107 äger 7 av 19 FDMs – alla kommunala ESG DD-affärer. Semestertäckning och frånvarorisk är kritisk.\n3. Tobii Dynavox (deal 60108294665): Cyber DD-dealen har 0 kr – custom-pris inte satt. Kräver komplettering för korrekt pipelinespårning.\n4. Lysekils (deal 60177492994): Saknar fortfarande produktrad trots FDM-datum sedan 1 juni. Åtgärd: lägg till ESG DD (899310028).\n5. Vaccindirekts (deal 60668759823): \"Professional\"-rad (125K) saknar hs_sku och kan ej klassificeras som FDM. Behöver produkt-ID konfigureras i HubSpot-katalogen.\n6. OKQ8 (298K, inbound): Onboarding planerat juli men RFP inväntas – konverteringsrisk om beslutet drar ut.\n\n6. REKOMMENDATION\nSäkerställ 4 ytterligare inbound-FDMs senast v24 (14–19 juni) genom att prioritera SDR-aktivitet inom Risk & Kontroll, NIS2/Cyber DD och Kvalitet – de enda segment som hittills konverterat inbound. SDR 82437539 är länkad till 2 av 6 inbound-FDMs (Samhall + VaccinDirekt) och bör ges fler varma leads omedelbart. Åtgärda tre datakvalitetsproblem parallellt: (1) Lysekils – lägg till produktrad 899310028, (2) Tobii Dynavox – sätt pris på Cyber DD-raden, (3) Vaccindirekts – konfigurera \"Professional\"-produkten med korrekt hs_sku i HubSpot-katalogen.",
   "companyData": {
+    "Attendo": {
+      "employees": 9341,
+      "revenue": 6630941000,
+      "desc": "Vård och omsorg i särskilda boendeformer för äldre personer"
+    },
+    "Bergs kommun": {
+      "employees": 849,
+      "revenue": null,
+      "desc": "Bergs kommun is a government administration that provides various products and services to the residents, visitors, and businesses in the municipality."
+    },
+    "Castellum": {
+      "employees": 123,
+      "revenue": 325000000,
+      "desc": "Castellum is a Sweden-based company that specializes in the acquisition, ownership, management, and development of commercial real estate. With one of the largest property portfolios in the Nordic region, Castellum offers a wide range of office spaces."
+    },
+    "Håbo kommun": {
+      "employees": 1517,
+      "revenue": 500000000,
+      "desc": "Håbo provides high-quality, sustainable home products designed to enhance everyday living."
+    },
+    "Azets Insight AB": {
+      "employees": 258,
+      "revenue": 378185000,
+      "desc": "Azets is a leading provider of accounting and payroll services in the Nordics, specializing in advisory and support for accounting, payroll, finance, and HR. With a team of over 6,500 professionals, Azets helps companies of all sizes achieve their business goals."
+    },
+    "Samhall AB": {
+      "employees": 22586,
+      "revenue": 3355000000,
+      "desc": "Försäljning av varor och tjänster inom ett flertal industri- och tjänsteområden"
+    },
+    "E-hälsomyndigheten": {
+      "employees": 420,
+      "revenue": 100000000,
+      "desc": "E-hälsomyndigheten facilitates e-prescriptions and e-health services, promoting improved healthcare and social services through enhanced information exchange."
+    },
+    "OKQ8": {
+      "employees": 391,
+      "revenue": 28013000000,
+      "desc": "OKQ8 is one of Sweden's largest fuel companies, offering a complete range of products and services for both vehicles and drivers. They have a network of approximately 700 stations nationwide and are committed to expanding renewable energy sources."
+    },
+    "Folksam": {
+      "employees": 4000,
+      "revenue": 10000000000,
+      "desc": "Folksam provides insurance and savings products, including coverage for the most homes and 900,000 cars in Sweden, along with pension and savings solutions."
+    },
+    "BST Group": {
+      "employees": null,
+      "revenue": null,
+      "desc": "BST Group is the market-leading conglomerate in the installation and maintenance of fire protection systems, as well as fire protection design in the Nordic region. They unite industry experts and drive technological advancements in fire protection development."
+    },
+    "Hofors kommun": {
+      "employees": 1008,
+      "revenue": 250000000,
+      "desc": "Hofors kommun provides a vibrant community environment with a wide range of cultural and sports activities, supported by numerous local associations and a community greenhouse that fosters both personal and professional growth."
+    },
     "Burlöv": {
       "employees": 1276,
       "revenue": 250000000,
       "desc": "Burlöv is a vibrant community located in the Öresundsregionen, serving as a creative meeting place for residents, businesses, development, and culture with good transportation links and a lively atmosphere."
+    },
+    "Sørbø": {
+      "employees": 30,
+      "revenue": null,
+      "desc": ""
+    },
+    "VaccinDirekt i Sverige AB": {
+      "employees": 188,
+      "revenue": 414643000,
+      "desc": "VaccinDirekt is the largest vaccinator in the Nordic region with the most satisfied customers in the industry. With 50 years of experience in healthcare and vaccinations, VaccinDirekt provides vaccination services at multiple locations in Stockholm."
     },
     "Sundbyberg": {
       "employees": 2339,
@@ -21,15 +86,25 @@
       "revenue": 1000000000,
       "desc": "Region Kalmar Län provides public services and healthcare to the residents of Kalmar County, Sweden."
     },
+    "Tobii Dynavox": {
+      "employees": 121,
+      "revenue": 751000000,
+      "desc": "Tobii Dynavox is a global provider of assistive technology for communication. They offer a wide range of products and services including communication apps, speech generating devices, eye trackers, and eye gaze/eye controlled devices."
+    },
+    "Nacka Kommun": {
+      "employees": 3000,
+      "revenue": 10000000000,
+      "desc": "Nacka Kommun provides information about its services and operations, working together to make Nacka an attractive place to live, work, and stay."
+    },
+    "Reitan Convenience Denmark": {
+      "employees": null,
+      "revenue": null,
+      "desc": ""
+    },
     "Lysekils kommun": {
       "employees": 1633,
       "revenue": 50000000,
       "desc": "Lysekils Kommun provides local government services and support to the residents of Lysekil, including public administration, community development, and local infrastructure management."
-    },
-    "Nacka kommun": {
-      "employees": 3500,
-      "revenue": 10000000000,
-      "desc": "Nacka kommun is dedicated to making Nacka an attractive place to live, work, and visit. With a population of over 100,000 residents, the municipality focuses on efficient resource utilization, strong citizen participation, and a wide range of services. Nacka provides the best conditions for creativity, innovation, and knowledge sharing across all its operations."
     }
   },
   "fdms": [
@@ -51,9 +126,9 @@
       "nextStep": null
     },
     {
-      "dealId": "60667708246",
-      "dealName": "Sundbyberg - Externa utförare",
-      "company": "Sundbyberg",
+      "dealId": "60142268516",
+      "dealName": "Nacka kommun -  Externa utförare",
+      "company": "Nacka Kommun",
       "fdmDate": "2026-06-01",
       "productId": "899310028",
       "productName": "ESG Due Diligence (up to 250 suppliers)",
@@ -85,9 +160,9 @@
       "nextStep": null
     },
     {
-      "dealId": "60142268516",
-      "dealName": "Nacka kommun - Externa utförare",
-      "company": "Nacka kommun",
+      "dealId": "60667708246",
+      "dealName": "Sundbyberg - Externa utförare",
+      "company": "Sundbyberg",
       "fdmDate": "2026-06-01",
       "productId": "899310028",
       "productName": "ESG Due Diligence (up to 250 suppliers)",
@@ -99,6 +174,261 @@
       "ownerId": "123158107",
       "sdrId": null,
       "amount": 230000,
+      "nextStep": null
+    },
+    {
+      "dealId": "60786245267",
+      "dealName": "BST Group - ESG Due Diligence",
+      "company": "BST Group",
+      "fdmDate": "2026-06-02",
+      "productId": "899310028",
+      "productName": "ESG Due Diligence (up to 250 suppliers)",
+      "sector": "private_sector",
+      "country": "Sweden",
+      "som_sam": null,
+      "dealType": "899310002",
+      "inoutbound": "outbound",
+      "ownerId": "669341231",
+      "sdrId": null,
+      "amount": 230000,
+      "nextStep": null
+    },
+    {
+      "dealId": "60786303360",
+      "dealName": "Hofors kommun - Externa utförare",
+      "company": "Hofors kommun",
+      "fdmDate": "2026-06-02",
+      "productId": "899310028",
+      "productName": "ESG Due Diligence (up to 250 suppliers)",
+      "sector": "public_sector",
+      "country": "Sweden",
+      "som_sam": "sam",
+      "dealType": "899310002",
+      "inoutbound": "outbound",
+      "ownerId": "123158107",
+      "sdrId": null,
+      "amount": 230000,
+      "nextStep": null
+    },
+    {
+      "dealId": "60032249002",
+      "dealName": "Reitan Convenience Denmark - Risk & Control",
+      "company": "Reitan Convenience Denmark",
+      "fdmDate": "2026-06-02",
+      "productId": "899310037",
+      "productName": "Risk och kontroll produktlicens (custom)",
+      "sector": "private_sector",
+      "country": "Denmark",
+      "som_sam": null,
+      "dealType": "899310000",
+      "inoutbound": "inbound",
+      "ownerId": "214743348",
+      "sdrId": null,
+      "amount": 70000,
+      "nextStep": null
+    },
+    {
+      "dealId": "60680408909",
+      "dealName": "lead - kim.spets@sorboas.no",
+      "company": "Sørbø",
+      "fdmDate": "2026-06-02",
+      "productId": "899310028",
+      "productName": "ESG Due Diligence (custom)",
+      "sector": "private_sector",
+      "country": "Norway",
+      "som_sam": null,
+      "dealType": "899310000",
+      "inoutbound": "inbound",
+      "ownerId": "148710672",
+      "sdrId": null,
+      "amount": 70000,
+      "nextStep": null
+    },
+    {
+      "dealId": "60841884747",
+      "dealName": "Azets Insight AB - ESG och potentiell partner",
+      "company": "Azets Insight AB",
+      "fdmDate": "2026-06-03",
+      "productId": "899310011",
+      "productName": "Hållbarhetsstyrning produktlicens (custom)",
+      "sector": "private_sector",
+      "country": "Sweden",
+      "som_sam": "sam",
+      "dealType": "899310000",
+      "inoutbound": "outbound",
+      "ownerId": "222186833",
+      "sdrId": null,
+      "amount": 70000,
+      "nextStep": "16/6 - Demo ESG"
+    },
+    {
+      "dealId": "60840136608",
+      "dealName": "E-hälsomyndigheten - Due diligence",
+      "company": "E-hälsomyndigheten",
+      "fdmDate": "2026-06-03",
+      "productId": "899310028",
+      "productName": "ESG Due Diligence (custom)",
+      "sector": "public_sector",
+      "country": "Sweden",
+      "som_sam": "sam",
+      "dealType": "899310002",
+      "inoutbound": "outbound",
+      "ownerId": "222186833",
+      "sdrId": null,
+      "amount": 70000,
+      "nextStep": "16/9, FDM DD"
+    },
+    {
+      "dealId": "60786212434",
+      "dealName": "Folksam - Hållbarhetsstyrning",
+      "company": "Folksam",
+      "fdmDate": "2026-06-03",
+      "productId": "899310011",
+      "productName": "Hållbarhetsstyrning produktlicens (custom)",
+      "sector": "private_sector",
+      "country": "Sweden",
+      "som_sam": "som",
+      "dealType": "899310002",
+      "inoutbound": "outbound",
+      "ownerId": "523874116",
+      "sdrId": null,
+      "amount": 70000,
+      "nextStep": null
+    },
+    {
+      "dealId": "60841902924",
+      "dealName": "Håbo kommun - externa utförare",
+      "company": "Håbo kommun",
+      "fdmDate": "2026-06-03",
+      "productId": "899310028",
+      "productName": "ESG Due Diligence (up to 250 suppliers)",
+      "sector": "public_sector",
+      "country": "Sweden",
+      "som_sam": "sam",
+      "dealType": "899310002",
+      "inoutbound": "inbound",
+      "ownerId": "123158107",
+      "sdrId": null,
+      "amount": 230000,
+      "nextStep": null
+    },
+    {
+      "dealId": "60786396319",
+      "dealName": "OKQ8 - Due Diligence",
+      "company": "OKQ8",
+      "fdmDate": "2026-06-03",
+      "productId": "899310028",
+      "productName": "ESG Due Diligence (custom)",
+      "sector": "private_sector",
+      "country": "Sweden",
+      "som_sam": "som",
+      "dealType": "899310000",
+      "inoutbound": "inbound",
+      "ownerId": "523874116",
+      "sdrId": null,
+      "amount": 298000,
+      "nextStep": "Onboarding ska påbörjas under juli. Inväntar återkoppling efter besvarad RFP"
+    },
+    {
+      "dealId": "60856109732",
+      "dealName": "Castellum - Hållbarhetsstyrning",
+      "company": "Castellum",
+      "fdmDate": "2026-06-04",
+      "productId": "899310011",
+      "productName": "Hållbarhetsstyrning produktlicens (custom)",
+      "sector": "private_sector",
+      "country": "Sweden",
+      "som_sam": null,
+      "dealType": "899310002",
+      "inoutbound": "outbound",
+      "ownerId": "222185120",
+      "sdrId": null,
+      "amount": 70000,
+      "nextStep": "FDM"
+    },
+    {
+      "dealId": "60841186454",
+      "dealName": "Samhall - Risk & Kontroll",
+      "company": "Samhall AB",
+      "fdmDate": "2026-06-04",
+      "productId": "899310037",
+      "productName": "Risk och kontroll produktlicens (custom)",
+      "sector": "private_sector",
+      "country": "Sweden",
+      "som_sam": "sam",
+      "dealType": "899310000",
+      "inoutbound": "inbound",
+      "ownerId": "30866284",
+      "sdrId": "82437539",
+      "amount": 320000,
+      "nextStep": "Börjat utvärdera leverantörer. Vill få prisindikation. Inköp i höst för impl. 2027"
+    },
+    {
+      "dealId": "60108294665",
+      "dealName": "Tobii Dynavox - Due Diligence",
+      "company": "Tobii Dynavox",
+      "fdmDate": "2026-06-05",
+      "productId": "899310033",
+      "productName": "Cyber DD Produktlicens (custom)",
+      "sector": "private_sector",
+      "country": "Sweden",
+      "som_sam": null,
+      "dealType": "899310000",
+      "inoutbound": "outbound",
+      "ownerId": "214743348",
+      "sdrId": null,
+      "amount": 0,
+      "nextStep": null
+    },
+    {
+      "dealId": "60954142889",
+      "dealName": "Attendo - Hållbarhetsstyrning",
+      "company": "Attendo",
+      "fdmDate": "2026-06-08",
+      "productId": "899310011",
+      "productName": "Hållbarhetsstyrning (250-500 anställda)",
+      "sector": "private_sector",
+      "country": "Sweden",
+      "som_sam": "som",
+      "dealType": "899310002",
+      "inoutbound": "outbound",
+      "ownerId": "669341231",
+      "sdrId": null,
+      "amount": 290000,
+      "nextStep": null
+    },
+    {
+      "dealId": "60953472887",
+      "dealName": "Bergs kommun -Externa utförare",
+      "company": "Bergs kommun",
+      "fdmDate": "2026-06-08",
+      "productId": "899310028",
+      "productName": "ESG Due Diligence (up to 250 suppliers)",
+      "sector": "public_sector",
+      "country": "Sweden",
+      "som_sam": null,
+      "dealType": "899310002",
+      "inoutbound": "outbound",
+      "ownerId": "123158107",
+      "sdrId": null,
+      "amount": 230000,
+      "nextStep": null
+    },
+    {
+      "dealId": "60668759823",
+      "dealName": "Vaccindirekts - Kvalitet",
+      "company": "VaccinDirekt i Sverige AB",
+      "fdmDate": "2026-06-08",
+      "productId": "899310015",
+      "productName": "Kvalitetsarbete för vård & omsorg produktlicens (custom)",
+      "sector": "private_sector",
+      "country": "Sweden",
+      "som_sam": null,
+      "dealType": "899310000",
+      "inoutbound": "inbound",
+      "ownerId": "33657334",
+      "sdrId": "82437539",
+      "amount": 395000,
       "nextStep": null
     }
   ]
