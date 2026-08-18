@@ -1,23 +1,86 @@
 {
   "meta": {
-    "updated": "2026-08-11",
+    "updated": "2026-08-18",
     "month": "2026-08",
     "target": 14
   },
-  "insight": "Augusti 2026 | Körning 2026-08-11 | Dag 1–10 av 31\n\n1. FDM-VOLYM OCH INBOUND-ATTAINMENT\n1 inbound vitlistad FDM har registrerats dag 1–10 i augusti 2026: Academedia – Informationssäkerhet & Dataskydd (inkl. ISO), FDM 6 aug, owner/SDR Felix Flodin (New Business, inbound, 70 kkr). Inbound-attainment: 1 av 14 (7 %). Proratad förväntning per dag 10: 14 × 10/31 ≈ 4,5 FDMs — vi ligger på 22 % av förväntad takt. Utöver det registrerades en outbound expansion (ED&F Man/Hartree, ESG DD, FDM 4 aug, 310 kkr, Butrint Morina) i Leads-pipelinen, men dess ESG DD-rad saknar vitlistat produkt-ID och räknas därmed inte som FDM.\n\n2. JÄMFÖRELSE MED FÖREGÅENDE MÅNAD\nJuli 2026 stängdes med 0 inbound vitlistade FDM:ar mot mål 4 (0 % attainment). Augustis första 10 dagar uppvisar 1 inbound FDM — ett positivt men otillräckligt trendbrott jämfört med julitappet. Den regulatorikdrivna InfoSec-efterfrågan som förutspåddes i augustianalysen av 2026-08-04 materialiseras nu i ett konkret mötesbevis (Academedia, 10 000+ anst.). Vitlistningsbeslutet för Build your own – GRC (Martin & Servera, inbound 2 juli) är fortfarande olöst — om det fattas retroaktivt påverkas juliattainment till 1/4 (25 %).\n\n3. PRODUKTER OCH SEGMENT SOM DRIVER RESULTATEN\nInfoSec / Informationssäkerhet & Dataskydd (899310022) öppnar augustimånaden. Academedia är ett av Sveriges största utbildningsföretag (~10 400 anst., ~12 Mdkr omsättning) i privat sektor. FDM-bokingen drivs sannolikt av NIS2-direktivet och den svenska Cybersäkerhetslagen — consistent med den starkaste regulatoriska drivfaktorn hösten 2026 som identifierades i marknadsanalysen. Ingen aktivitet synlig i Hållbarhetsstyrning, GRC/Risk, ESG DD eller Kontinuitetsprodukterna under dag 1–10.\n\n4. KOPPLING TILL MARKNADSLÄGET\nAcademedia-FDM:en bekräftar hypotesen att NIS2-implementeringen och Cybersäkerhetslagen driver kortcyklade InfoSec-affärer (899310022) även i utbildningssektorn. Stratsys GRC-pivot skapar möjlighet till cross-sell i Academedia-affären. EU Omnibus I-effekten (CSRD-scope minskat, Wave 2+3 försenade 2 år) kvarstår som bromskloss för rena ESG-affärer och förklarar avsaknaden av Hållbarhetsstyrnings-FDMs i augustis öppning. CSDDD senarelagd till juli 2028 håller ESG DD-pipeline låg — ED&F Man-dealen är ett undantag drivet av transaktionsexponering snarare än regulatorik.\n\n5. RISKER OCH BEVAKNINGSPUNKTER\n— Taktunderskott: 1/14 FDMs på dag 10 kräver 13 FDMs på återstående 21 dagar (v33–39) = minst 3 FDMs/vecka. Det är historiskt hög takt för Stratsys SDR-organisation.\n— ED&F Man (63436420914): ESG DD-raden saknar produkt-ID (hs_sku null). Om ID läggs till i efterhand räknas 1 outbound expansion-FDM — påverkar inte inbound-attainment men är ett CRM-datakvalitetsproblem som behöver åtgärdas.\n— Noll aktivitet i GRC-spåret (899310037) trots starkt marknadsstöd — risk för att augustimålet missar med stor marginal utan snabb pipeline-uppbyggnad.\n— Vitlistningsbeslutet för Build your own – GRC är nu >6 veckor överfallet. Utan beslut förblir GRC osynligt i FDM-KPI för hösten.\n— Academedia-mötet kräver möteskvalificering mot FDM-kriterierna (rätt beslutsnivå, rätt scope) — SDR-uppföljning hos Felix Flodin rekommenderas.\n\n6. REKOMMENDATION\nAcademedia-signalen bekräftar betalningsvilja och NIS2-driven köpintention hos stora organisationer i Sverige. Prioritera omedelbart outreach i InfoSec/NIS2-segmentet (899310022, 899310033) och GRC/Risk & Kontroll (899310037) — dessa segment har kortast säljcykler och ger de snabbaste FDM:arna mot augustimålet. Sätt veckovisa FDM-mål: minst 3 bokningar/vecka v33–39 med veckouppföljning mot SDR-teamet. Fatta vitlistningsbeslutet för Build your own – GRC snarast för att öppna GRC-segmentet i mätningen. Åtgärda ED&F Man-dealens saknade produkt-ID för att säkerställa dataintegritet.",
+  "insight": "Augusti 2026 | Körning 2026-08-18 | Dag 1–17 av 31\n\n1. FDM-VOLYM OCH INBOUND-ATTAINMENT\n2 vitlistade FDM:ar har registrerats dag 1–17 i augusti 2026:\n— Aira – ESG Due Diligence (custom) (899310028), outbound new business, FDM 13 aug, Viktor Sandoff, 70 kkr\n— Academedia – Informationssäkerhet & Dataskydd (inkl. ISO) (899310022), inbound new business, FDM 6 aug, Felix Flodin, 70 kkr\n\nInbound-attainment: 1 av 14 (7 %). Proratad förväntning per dag 17: 14 × 17/31 ≈ 7,7 FDMs — vi ligger på 13 % av förväntad takt. Ytterligare 2 outbound-deals (Feralco AB och ED&F Man/Hartree) saknar vitlistade produkt-ID:n i HubSpot (hs_sku = null) och kan ej räknas som FDM. Om Feralco (Hållbarhetsstyrning, 245 kkr) och ED&F Man (ESG DD, 310 kkr) åtgärdas retroaktivt tillkommer 2 outbound-FDMs men påverkar ej inbound-attainment.\n\n2. JÄMFÖRELSE MED FÖREGÅENDE MÅNAD\nJuli 2026 stängdes med 0 inbound vitlistade FDMs mot mål 4 (0 % attainment). Augusti uppvisar 1 inbound FDM — ett positivt trendbrott men otillräcklig takt. Situationen per dag 17 är identisk med dag 10-rapporten: ingen ny inbound FDM har tillkommit sedan Academedia (6 aug). Augustiinboundtakten 2026 är 1 FDM på 17 dagar jämfört med målets 0,45 FDMs/dag.\n\n3. PRODUKTER OCH SEGMENT SOM DRIVER RESULTATEN\nInfoSec / Informationssäkerhet & Dataskydd (899310022) svarar för den enda inbound-FDM:en. Academedia (~10 400 anst., ~12 Mdkr omsättning) är ett av Sveriges största privata utbildningsbolag — ett starkt ankarcase för NIS2-segmentet. ESG Due Diligence (899310028) driver den enda bekräftade outbound-FDM:en via Aira, troligtvis transaktionsdriven DD snarare än regulatorikdriven. Hållbarhetsstyrning och GRC-spåret (899310037) är helt frånvarande i inbound-flödet. Expansionssegmentet (outbound, ED&F Man) rör sig i DD-spåret men är ej mätbart pga produkt-ID-brist.\n\n4. KOPPLING TILL MARKNADSLÄGET\nEU Omnibus I-effekten (CSRD scope minskat, Wave 2+3 försenat 2 år) fortplantar sig tydligt: ingen Hållbarhetsstyrnings-FDM i inbound-flödet under 17 dagar. CSDDD senarelagd till juli 2028 håller ESG DD-pipeline låg inbound. NIS2 och den svenska Cybersäkerhetslagen driver Academedia-signalen — i linje med hypotesen om InfoSec som det kortaste konversionsspåret hösten 2026. Stratsys GRC-pivot har ännu inte genererat synliga inbound-FDMs (899310037 = 0 FDMs). Outbound-aktiviteten i ESG-spåret (Aira, Feralco, ED&F Man) indikerar att AE/SDR-teamet kompenserar med direktsälj där inbound sviker.\n\n5. RISKER OCH BEVAKNINGSPUNKTER\n— Målet (14 inbound) kan praktiskt sett inte nås: 13 FDMs återstår på 13 dagar (v34–v35), vilket kräver 1 inbound FDM/dag — historiskt 3–5× normalvärdet.\n— Datakvalitetsproblem: Feralco (63767903026) och ED&F Man (63436420914) saknar hs_sku på sina huvudprodukter. Åtgärd krävs av deal-ansvarig (Angus Palmberg resp. Butrint Morina) för korrekt FDM-registrering.\n— GRC-segmentet (899310037, 899310031, 899310033) genererar noll FDMs trots stark marknadsposition pga NIS2 och CSDDD-luckan. Risk för att höstmålen missar utan omedelbar pipeline-uppbyggnad.\n— Academedia-mötet kräver kvalificering mot FDM-kriterierna (rätt beslutnivå, rätt scope) — SDR-uppföljning hos Felix Flodin rekommenderas.\n— Vitlistningsbeslutet för Build your own – GRC fortfarande olöst (>7 veckor sedan Martin & Servera-caset, juli 2026). GRC-segmentet förblir osynligt i FDM-KPI tills beslut fattas.\n\n6. REKOMMENDATION\nAugustimålet (14 inbound) är förlorat. Fokus bör omedelbart skiftas till tre åtgärder: (1) Maximera resterande inbound-FDMs i InfoSec/NIS2-spåret (899310022, 899310033) — det enda segment som visat betalningsvilja och kort konversionscykel i aug. (2) Åtgärda produkt-ID-bristerna i Feralco och ED&F Man omedelbart så att outbound-FDMs registreras korrekt — 2 FDMs kan låsas upp retroaktivt. (3) Fatta vitlistningsbeslutet för Build your own – GRC för att öppna GRC-spåret i KPI:n inför september. Augustiresultaten bör ligga till grund för en reviderad septemberprognos med lägre target om inbound-pipeline ej visar återhämtning.",
   "companyData": {
-    "Academedia": {
-      "employees": 10368,
-      "revenue": 11981265000,
-      "desc": "AcadeMedia levererar utbildning och lärande som grund för att skapa ett bättre och mer hållbart samhälle genom att engagera människor som brinner för förändring."
+    "Aira": {
+      "employees": null,
+      "revenue": null,
+      "desc": ""
+    },
+    "Feralco AB": {
+      "employees": 200,
+      "revenue": 50000000,
+      "desc": "Feralco Nordic AB förser Skandinavien med oorganiska koagulanter för vattenrening. Vi producerar aluminium- och järnbaserade fällningssalter."
     },
     "ED&F Man": {
       "employees": null,
       "revenue": null,
       "desc": ""
+    },
+    "Academedia": {
+      "employees": 10368,
+      "revenue": 11981265000,
+      "desc": "AcadeMedia levererar utbildning och lärande som grund för att skapa ett bättre och mer hållbart samhälle genom att engagera människor som brinner för förändring."
     }
   },
   "fdms": [
+    {
+      "dealId": "63765792355",
+      "dealName": "Aira - ESG DD",
+      "dealType": "new_business",
+      "inbound": false,
+      "fdmDate": "2026-08-13",
+      "ownerId": "523874116",
+      "ownerName": "Viktor Sandoff",
+      "dealSdr": null,
+      "amount": 70000,
+      "productId": "899310028",
+      "productName": "ESG Due Diligence (custom)",
+      "companyName": "Aira",
+      "country": "Sweden",
+      "sector": "private_sector",
+      "hsNextStep": null
+    },
+    {
+      "dealId": "63767903026",
+      "dealName": "Feralco AB - Hållbarhetsstyrning",
+      "dealType": "new_business",
+      "inbound": false,
+      "fdmDate": "2026-08-13",
+      "ownerId": "669341231",
+      "ownerName": "Angus Palmberg",
+      "dealSdr": null,
+      "amount": 245000,
+      "productId": null,
+      "productName": "Hållbarhetsstyrning (100-250 anställda)",
+      "companyName": "Feralco AB",
+      "country": "Sweden",
+      "sector": "private_sector",
+      "hsNextStep": null,
+      "_note": "Exkluderad från FDM-count: hs_sku saknas på line item"
+    },
+    {
+      "dealId": "63436420914",
+      "dealName": "ED&F Man (Del av Hartree) - Utökning med DD",
+      "dealType": "expansion",
+      "inbound": false,
+      "fdmDate": "2026-08-04",
+      "ownerId": "214743348",
+      "ownerName": "Butrint Morina",
+      "dealSdr": null,
+      "amount": 310000,
+      "productId": null,
+      "productName": "ESG Due Diligence (up to 1000 suppliers)",
+      "companyName": "ED&F Man",
+      "country": "United Kingdom",
+      "sector": "private_sector",
+      "hsNextStep": null,
+      "_note": "Exkluderad från FDM-count: hs_sku saknas på line item"
+    },
     {
       "dealId": "61025056656",
       "dealName": "lead - oscar.borjesson@academedia.se",
@@ -32,7 +95,8 @@
       "productName": "Informationssäkerhet & Dataskydd (inkl. ISO) (custom)",
       "companyName": "Academedia",
       "country": "Sweden",
-      "sector": "private_sector"
+      "sector": "private_sector",
+      "hsNextStep": null
     }
   ]
 }
