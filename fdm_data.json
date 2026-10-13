@@ -1,12 +1,66 @@
 {
-  "meta": { "updated": "2026-10-06", "month": "2026-10", "target": null },
-  "insight": "Oktober 2026 | Körning 2026-10-06 | Tidig månad (t.o.m. 2026-10-05, 5 av 31 dagar = 16%)\n\n1. FDM-VOLYM OCH INBOUND-ATTAINMENT\nOktober inleds med 2 whitelistade FDMs fördelade på 2 unika deals. Av dessa är 1 inbound och 1 outbound. Inget oktobermål är konfigurerat i rutinen — med augustimålet (14) som närmaste referenspunkt är inbound-attainment 1/14 = 7% vid 16% av månaden (linjärt mål ~2,2 FDMs). Takten är något lägre än förväntat, men dataintervallet är bara 5 dagar och statistiken är i detta läge ej representativ. Notera: Utbildia AB-dealen (FDM 2026-10-05) saknar whitelistad produkt — AI-licensen är ej på whitelistan — och genererar därför ingen FDM. Korrigeras det tillkommer ytterligare 1 FDM.\n\n2. JÄMFÖRELSE MED FÖREGÅENDE MÅNAD\nSeptember stängde med 17 FDMs totalt (8 inbound) under hela månaden, vilket motsvarar ett genomsnitt på 0,57 FDMs/dag. De fem första dagarna i oktober levererar 0,4 FDMs/dag (2 FDMs totalt). Direktjämförelsen är känslig för datumspridning — september hade en tydlig tyngdpunkt mot slutet av månaden (10 av 17 FDMs kom efter den 9:e). Oktobers start är i linje med vad som är normalt för en månads inledning, men det är ännu för tidigt att bedöma månadsutfallet.\n\n3. PRODUKTER OCH SEGMENT\nProduktfördelning — totala FDMs (varav inbound):\n– InfoSec/Cyber 899310022: 1 FDM (1 inbound) — JSC it-partner, IT-tjänster, 90 anst., privat sektor\n– ESG Due Diligence 899310028: 1 FDM (0 inbound) — Komatsu Forest Machines, skogsmaskiner, 718 anst., expansion\nBåda deals är från svenska privata bolag. Komatsu Forests expansion-deal (SOM-klassad kund, intäkt ~4,6 Mdr SEK) indikerar ett fördjupat ESG-behov i tillverknings- och skogsmaskinsektorn, sannolikt kopplat till kundens egna leverantörskedja-krav. JSC it-partners InfoSec-deal är ett nytt affärsmöjlighet för en IT-tjänsteleverantör — en kundtyp som återkommer i InfoSec-pipeline (jfr. Bits Data i september).\n\n4. KOPPLING TILL MARKNADSLÄGET\nNIS2 och den svenska Cybersäkerhetslagen fortsätter att generera inbound InfoSec-FDMs. JSC it-partner är en IT-partner till fordonsbranschen — en sektor där NIS2-krav på kritisk infrastruktur och leverantörskedjor skapar tydlig efterfrågan på strukturerad informationssäkerhet. ESG Due Diligence för Komatsu Forest är outbound-driven och kan spegla kunden behov av due diligence-struktur för sina egna leverantörer i skogsmaskinsektorn. Post-Omnibus I-klimatet pressar inte ESG-expansion-deals på samma sätt som inbound nyförsäljning — expansionskunder har redan investerat och söker bredare täckning snarare än om de ska köpa alls.\n\n5. RISKER OCH BEVAKNINGSPUNKTER\n– Utbildia AB (outbound expansion, FDM 2026-10-05): Dealen har enbart 'Stratsys AI-licens (Custom)' som line item — ej whitelistad produkt-ID. Rätt produkt saknas i registreringen; sannolikt registreringsfel. Korrigeras det tillkommer +1 FDM i oktober (ansvarig: owner 523874116).\n– Oktobermål saknas i konfigurationen (targets definieras t.o.m. augusti). Utan mål kan inbound-attainment ej rapporteras meningsfullt — definiera mål omgående.\n– Komatsu Forest-deal har amount 70 000 SEK, men hs_sku antyder ett custom-pris — belopp bör verifieras.\n– Endast 5 dagars data: statistisk osäkerhet hög, prognos inte tillförlitlig i detta skede.\n– ESG Due Diligence är fortsatt 0 inbound FDMs (som i september) — outbound-beroende kvarstår i detta segment.\n\n6. REKOMMENDATION\nPrioritera tre åtgärder omedelbart: (1) Rätta Utbildia AB-dealen — lägg till korrekt whitelistad produkt-ID för att rädda potentiellt +1 FDM. (2) Definiera ett oktobermål i rutinkonfigurationen (förslag: 14 baserat på augustireferens, eller ett justerat mål med hänsyn till att GRC-pivoten mognar). (3) Aktivera InfoSec- och GRC-pipeline från september (Bravida, KGK) tidigt i oktober för att bygga momentum — september visade att FDM-volym klumpar sig mot slutet av månaden, vilket ger sämre förutsättningar för uppföljning.",
+  "meta": { "updated": "2026-10-13", "month": "2026-10", "target": null },
+  "insight": "Oktober 2026 | Körning 2026-10-13 | Månadsläge (t.o.m. 2026-10-12, 12 av 31 dagar = 39%)\n\n1. FDM-VOLYM OCH INBOUND-ATTAINMENT\nOktober uppvisar nu 5 whitelistade FDMs på 5 unika deals. Av dessa är 3 inbound (Mastec AB, Svenska ESF-rådet, JSC it-partner) och 2 outbound (Komatsu Forest Machines, ABB Sweden). Inget oktobermål är konfigurerat i rutinen — med augustimålet (14) som närmaste referenspunkt är inbound-attainment 3/14 = 21% vid 39% av månaden (linjärt förväntad nivå ~5,5 FDMs). Takten är lägre än förväntat på linjärt mått, men historiken visar att FDMs klumpar sig mot slutet av månaden. Alla tre inbound-FDMs är New Business. OBS: AI-licensen för Utbildia AB (product 899310032) är fortfarande ej whitelistad och räknas inte in som FDM.\n\n2. JÄMFÖRELSE MED FÖREGÅENDE KÖRNING OCH SEPTEMBER\nSedan körningen 2026-10-06 (2 FDMs: JSC it-partner, Komatsu) har 3 nya FDMs tillkommit under vecka 41: Mastec AB (2026-10-08, Hållbarhetsstyrning), Svenska ESF-rådet (2026-10-08, InfoSec) och ABB Sweden (2026-10-09, Hållbarhetsstyrning). Tre FDMs på två dagar indikerar god pipeline-aktivitet. Oktobers dagstakt är nu 0,42 FDMs/dag mot september som stängde med 17 FDMs totalt (8 inbound, 0,57 FDMs/dag). Oktobers inbound-takt (0,25/dag) är märkbart under septembernivå (0,27/dag för inbound), men det är ännu för tidigt att dra slutsatser med 39% av månaden avklarad.\n\n3. PRODUKTER OCH SEGMENT\nProduktfördelning — totala FDMs (varav inbound):\n– Hållbarhetsstyrning 899310011: 2 FDMs (1 inbound) — Mastec AB (privat, tillverkning, 120 anst.) + ABB Sweden (privat, industri/automation, 3 445 anst., ~21 Mdr SEK)\n– InfoSec/Dataskydd 899310022: 2 FDMs (2 inbound) — Svenska ESF-rådet (offentlig, 250 anst.) + JSC it-partner (privat, IT-tjänster, 90 anst.)\n– ESG Due Diligence 899310028: 1 FDM (0 inbound) — Komatsu Forest Machines (privat, skogsmaskiner, 718 anst., ~4,6 Mdr SEK, expansion)\nPrivat sektor dominerar med 4 av 5 FDMs. InfoSec-produkten genererar 100% av sina FDMs via inbound och är i paritet med Hållbarhetsstyrning i absoluta tal. ABB-affären är den tyngsta i månaden sett till bolagsstorlek och potentiellt ACV.\n\n4. KOPPLING TILL MARKNADSLÄGET\nNIS2 och Cybersäkerhetslagen fortsätter att driva inbound InfoSec-FDMs: JSC it-partner (IT-leverantör till industrin, direkt NIS2-exponering) och ESF-rådet (offentlig myndighet, berörs av NIS2 offentlig sektor). Stratsys GRC-pivot syns tydligt — InfoSec ensam matchar Hållbarhetsstyrning i FDM-volym trots att det är en nyare del av portföljen. Hållbarhetsstyrning visar motståndskraft post-Omnibus I: Mastec AB (VSME-storlekssegment, 120 anst.) och ABB Sweden (CSRD-pliktig eller leverantörskedjedriven) representerar olika behovskärnor inom samma produkt. ESG Due Diligence för Komatsu är outbound-driven och sannolikt kopplad till kundens egna leverantörskedja-krav snarare än direkt regulatoriskt krav — CSDDD-fördröjningen till 2028 minskar inte behovet på kort sikt för aktiva SOM-kunder.\n\n5. RISKER OCH BEVAKNINGSPUNKTER\n– Inbound-attainment på 21% mot linjärt 39% är ett varningssignal, men september visade att FDM-volym naturligt tyngdpunktas mot månadsslut. Nästa körning (v. 43) ger bättre signal.\n– AI-produkten (899310032, Utbildia AB deal, outbound expansion) är fortfarande ej whitelistad — detta påpekades i förra körningen men har inte åtgärdats. Risk för systematisk underskattning av FDM-volym om AI-erbjudandet skalas upp.\n– ABB-affären (outbound NB, 290 000 SEK deal amount, 220 000 SEK ACV line item) är månadsens viktigaste deal i termer av potentiell intäkt — tydlig AE-ägarskap och uppföljningsplan krävs.\n– SDR-koncentration: SDR 82437539 är kopplad till 3 av 5 deals och samtliga 3 inbound-FDMs. Stark prestation men kapacitetsrisk vid ökad volym.\n– Komatsu Forest-dealen visas med 70 000 SEK deal amount men line item ESG Due Diligence har 0 SEK pris (custom) — faktisk ACV oklar, bör verifieras.\n– Ingen offentlig sektors outbound-aktivitet syns i oktober, vilket kan vara normalt för perioden.\n\n6. REKOMMENDATION\nAkuta åtgärder i prioritetsordning: (1) Whitelist AI-licensen (899310032) om produkten är en strategisk FDM-kandidat — varje vecka utan whitelist underskattas volymen. (2) Säkra ABB-uppföljning direkt: dealen är outbound NB med en av månadsens högsta potentiella ACV:er och befinner sig sannolikt i tidigt säljskede. (3) Definiera ett FDM-mål för oktober och Q4 — utan mål är attainment meningslös som styrtal och teamets prioriteringar svåra att kalibrera.",
   "companyData": {
-    "JSC it-partner": { "employees": 90, "revenue": null, "desc": "JSC it-partner helps you create time for what matters by providing the right IT support to strengthen your competitiveness and simplify your operations." },
-    "Utbildia AB": { "employees": null, "revenue": null, "desc": "" },
-    "Komatsu Forest Machines": { "employees": 718, "revenue": 4569085000, "desc": "Komatsu Forest Machines provides forest machines and services designed to enhance profitability in forestry operations." }
+    "Mastec AB": {
+      "employees": 120,
+      "revenue": 50000000,
+      "desc": "Mastec specializes in contract manufacturing for industrial enterprises, focusing on the development and optimization of production setups and processes to enhance efficiency and support clients from concept to series production."
+    },
+    "Svenska esf-rådet": {
+      "employees": 250,
+      "revenue": 50000000,
+      "desc": "Svenska ESF-rådet is the authority that manages the European Social Fund in Sweden. We drive development and innovation for an inclusive labor market. Through the funds, we transform the labor market by financing projects that focus on skills development."
+    },
+    "JSC it-partner": {
+      "employees": 90,
+      "revenue": null,
+      "desc": "JSC it-partner helps you create time for what matters by providing the right IT support to strengthen your competitiveness and simplify your operations."
+    },
+    "Komatsu Forest Machines": {
+      "employees": 718,
+      "revenue": 4569085000,
+      "desc": "Komatsu Forest Machines provides forest machines and services designed to enhance profitability in forestry operations."
+    },
+    "ABB Sweden": {
+      "employees": 3445,
+      "revenue": 21039653000,
+      "desc": "ABB is a technology leader in electrification and automation, offering power and automation technologies that support smart grids, robotics, electric vehicles, renewable energy, and motor systems to promote a more sustainable and resource-efficient future."
+    }
   },
   "fdms": [
+    {
+      "dealId": "65787558026",
+      "dealName": "lead - jakob.kronholm@mastec.se",
+      "productId": "899310011",
+      "productName": "Hållbarhetsstyrning produktlicens (custom)",
+      "dealtype": "899310000",
+      "leads_pipeline_deal_type": "inbound",
+      "fdmDate": "2026-10-08",
+      "ownerId": "214743348",
+      "sdrId": "82437539",
+      "amount": 70000,
+      "nextStep": null,
+      "company": "Mastec AB",
+      "country": "Sweden",
+      "sector": "private_sector"
+    },
+    {
+      "dealId": "65769328660",
+      "dealName": "lead - maria.sjodin@esf.se",
+      "productId": "899310022",
+      "productName": "Informationssäkerhet & Dataskydd (inkl. ISO) (custom)",
+      "dealtype": "899310000",
+      "leads_pipeline_deal_type": "inbound",
+      "fdmDate": "2026-10-08",
+      "ownerId": "31031717",
+      "sdrId": "82437539",
+      "amount": 70000,
+      "nextStep": null,
+      "company": "Svenska esf-rådet",
+      "country": "Sweden",
+      "sector": "public_sector"
+    },
     {
       "dealId": "65489561946",
       "dealName": "Komatsu Forest - Produktbedömning",
@@ -36,6 +90,22 @@
       "amount": 70000,
       "nextStep": null,
       "company": "JSC it-partner",
+      "country": "Sweden",
+      "sector": "private_sector"
+    },
+    {
+      "dealId": "65083659428",
+      "dealName": "ABB Robotics Sweden - ESG",
+      "productId": "899310011",
+      "productName": "Hållbarhetsstyrning (250-500 anställda)",
+      "dealtype": "899310000",
+      "leads_pipeline_deal_type": "outbound",
+      "fdmDate": "2026-10-09",
+      "ownerId": "214743348",
+      "sdrId": null,
+      "amount": 290000,
+      "nextStep": null,
+      "company": "ABB Sweden",
       "country": "Sweden",
       "sector": "private_sector"
     }
