@@ -1,46 +1,41 @@
 {
-  "meta": { "updated": "2026-10-20", "month": "2026-10", "target": null },
-  "insight": "Oktober 2026 | Körning 2026-10-20 | Månadsläge (t.o.m. 2026-10-19, 19 av 31 dagar = 61%)\n\n1. FDM-VOLYM OCH INBOUND-ATTAINMENT\nOktober har per den 19 oktober 5 whitelistade FDMs på 5 unika deals. Av dessa är 4 inbound (Riksgälden, Mastec AB, Svenska ESF-rådet, JSC it-partner) och 1 outbound (Komatsu Forest Machines). Inget officiellt oktobermål är konfigurerat i rutinen — med augustimålet (14) som närmaste referenspunkt är inbound-attainment 4/14 = 29% vid 61% av månaden. Linjärt förväntat: ~8,5 FDMs vid denna tidpunkt. Takten är märkbart under linjärt mått. Projektion om innevarande takt håller: ~6–7 inbound FDMs vid månadsslut, dvs. avsevärt under ett hypotetiskt augustimål.\n\n2. JÄMFÖRELSE MED FÖREGÅENDE KÖRNING (2026-10-13)\nSedan körningen den 13 oktober har en ny inbound FDM tillkommit: Riksgälden (Verksamhetsplan, 578920000, 2026-10-15, Ulrika Sjöberg Goucher/Felix Flodin). ABB Sweden räknas i denna körning inte som en FDM — linjeobjektet 'Hållbarhetsstyrning (250-500 anställda)' saknar whitelistad produkt-SKU (hs_sku och hs_product_id är tomma) och kan inte bekräftas mot vitlistan via produkt-ID-fältet. Netto: +1 ny verified FDM (Riksgälden), och ABB är oförändrat oklart. Inbound-FDMs ökade från 3 till 4 sedan 13 oktober.\n\n3. PRODUKTER OCH SEGMENT\nProduktfördelning — FDMs per produktID:\n– InfoSec/Dataskydd 899310022: 2 FDMs (båda inbound) — JSC it-partner (privat, IT, 90 anst.) + Svenska ESF-rådet (offentlig, 250 anst.)\n– Hållbarhetsstyrning 899310011: 1 FDM (inbound) — Mastec AB (privat, tillverkning, 120 anst.)\n– ESG Due Diligence 899310028: 1 FDM (outbound, expansion) — Komatsu Forest Machines (privat, skogsmaskiner, 718 anst.)\n– Verksamhetsplan 578920000: 1 FDM (inbound) — Riksgälden (offentlig myndighet, 200 anst.)\nOffentlig sektor svarar för 2 av 4 inbound-FDMs (Riksgälden + ESF-rådet). InfoSec-produkten är den starkaste inbound-drivaren i oktober.\n\n4. KOPPLING TILL MARKNADSLÄGET\nNIS2 och Cybersäkerhetslagen driver fortsatt InfoSec-inbound: JSC it-partner (IT-leverantör med direkt NIS2-exponering) och ESF-rådet (offentlig myndighet) återspeglar bredd i mottagargruppen. Riksgälden (statlig finansmyndighet) är ett tydligt tecken på att Verksamhetsplan-produkten hittar väg in i offentlig sektor utanför traditionella kommunala kanaler — intressant med tanke på Stratsys GRC-pivot. Komatsu ESG Due Diligence är outbound/expansion och driven av leverantörskedja-krav snarare än regulatorisk push — CSDDD-fördröjningen påverkar inte denna typ av affär på kort sikt. ABB Robotics ESG-dealen (outbound NB, 290 000 SEK, 3 445 anst.) saknar fortfarande whitelistad produkt-SKU och räknas inte in — en viktig datakvalitetsfråga att lösa.\n\n5. RISKER OCH BEVAKNINGSPUNKTER\n– Inbound-attainment på 4 FDMs vid 61% av månaden innebär att ett augustimål (14) är praktiskt taget omöjligt att nå. Men utan definierat oktobermål är detta en indikation, inte ett missfall.\n– ABB Robotics-dealen (65083659428) saknar whitelistad hs_sku på linjeobjektet 'Hållbarhetsstyrning (250-500 anställda)'. Om korrekt produkt-ID läggs in kan detta bli en 6:e FDM och höja inbound-siffran — behöver åtgärdas akut.\n– Utbildia AB (AI-licens, outbound expansion) och Melleruds kommun (KPA-visning, outbound expansion) saknar båda whitelistade produkt-SKUs — återkommande datakvalitetsproblem.\n– SDR-koncentration: Felix Flodin (82437539) är kopplad till 4 av 5 deals och samtliga 4 inbound-FDMs. Stark enskild prestation men sårbart vid frånvaro.\n– Inga nya FDMs har registrerats sedan 15 oktober (5 dagar utan ny FDM), vilket kan signalera att pipeline torkar ut i slutet av oktober.\n\n6. REKOMMENDATION\nÅtgärda datakvaliteten för ABB Robotics Sweden-dealen (65083659428) nu: lägg in korrekt whitelistad produkt-SKU på linjeobjektet 'Hållbarhetsstyrning (250-500 anställda)'. Det är en omedelbar åtgärd som kan addera 1 verified FDM till oktober — utan ny säljinsats. Kombinerat med att definiera ett oktobermål för GRC/InfoSec-segmentet ger det teamet en meningsfull styrtal att avsluta månaden mot.",
+  "meta": { "updated": "2026-10-27", "month": "2026-10", "target": null },
+  "insight": "Oktober 2026 | Körning 2026-10-27 | Månadsläge (t.o.m. 2026-10-26, 26 av 31 dagar = 84%)\n\n1. FDM-VOLYM OCH INBOUND-ATTAINMENT\nOktober avslutas med 7 registrerade FDMs på 7 unika deals: 5 inbound och 2 outbound. Inget officiellt oktobermål är konfigurerat — med augustimålet (14) som närmaste referenspunkt ger 5 inbound-FDMs en attainment på 36% mot det målet vid 84% av månaden. Linjärt förväntat mot augustimålet: ~11,8 FDMs vid denna tidpunkt. Sista veckan (27–31 okt) ger ytterligare möjlighet att tillföra FDMs, men det är orealistiskt att nå 14 inbound på fem dagar.\n\nOBS: GlobalConnect (InfoSec, inbound NB, 320 000 SEK) och Region Örebro (Kvalitetsarbete, outbound expansion, 260 000 SEK) saknar hs_sku på sina linjeobjekt — inkluderade på namnbaserad produktmappning. ABB Robotics Sweden (Hållbarhetsstyrning, outbound NB, 290 000 SEK) exkluderas fortsatt då hs_sku fortfarande saknas — rekommendationen från 2026-10-20 är inte genomförd.\n\n2. JÄMFÖRELSE MED FÖREGÅENDE KÖRNING (2026-10-20)\nSedan körningen den 20 oktober har två nya FDMs tillkommit:\n– GlobalConnect (lead jonny.andersson, InfoSec 899310022, 2026-10-22, Butrint Morina, 320 000 SEK) — inbound NB\n– Region Örebro (KPA-deal, Kvalitetsarbete 899310009, 2026-10-26, Erika Siljebrand Grans, 260 000 SEK) — outbound expansion\nInbound-FDMs ökade från 4 till 5. Totalt från 5 till 7.\n\n3. PRODUKTER OCH SEGMENT\nProduktfördelning:\n– InfoSec 899310022: 3 FDMs (alla inbound) — JSC it-partner, ESF-rådet, GlobalConnect\n– Hållbarhetsstyrning 899310011: 1 FDM (inbound) — Mastec AB\n– Verksamhetsplan 578920000: 1 FDM (inbound) — Riksgälden\n– ESG Due Diligence 899310028: 1 FDM (outbound expansion) — Komatsu Forest\n– Kvalitetsarbete vård & omsorg 899310009: 1 FDM (outbound expansion) — Region Örebro\nInfoSec är den dominerande inbound-drivaren med 3 av 5. Offentlig sektor: Riksgälden (statlig), ESF-rådet (statlig), Region Örebro (regional). Privat sektor: JSC (IT), Mastec (tillverkning), GlobalConnect (telekom/infra, norsk koncern aktiv i Sverige).\n\n4. KOPPLING TILL MARKNADSLÄGET\nNIS2 och Cybersäkerhetslagen bekräftas som primär inbound-motor: 3 av 5 inbound-FDMs är InfoSec-produkten (899310022). GlobalConnect (611 anst., norsk telekomkoncern med stor Sverigeverksamhet) understryker att NIS2-dragkraften sträcker sig till kritisk infrastruktur och nordiska bolag med Svenska operationer — ett segment med hög betalningsvilja (320 000 SEK-deal). EU Omnibus I och CSRD-reducering påverkar inte InfoSec-efterfrågan: regulatorisk drivkraft är intakt.\n\nRegion Örebro (25 196 anst.) visar att Stratsys kommunala/regionala kvalitetsprodukter fortsätter säljas parallellt med GRC-pivoten — viktig diversifiering av intäktsbasen. Komatsu ESG Due Diligence är outbound/expansion och driven av leverantörskedjekrav snarare än CSDDD (vars fördröjning till 2028 inte påverkar nuvarande kundengagemang). Riksgälden (Verksamhetsplan, statlig finansmyndighet) bekräftar att styrningsprodukter hittar väg in i statlig sektor — relevant för GRC-pivoten.\n\n5. RISKER OCH BEVAKNINGSPUNKTER\n– Inbound-attainment 5/14 (36%) vid 84% av månaden. Realistisk prognos: 5–6 inbound FDMs vid månadsslut — avsevärt under augustimålet. Utan definierat oktobermål är det dock oklart hur allvarlig avvikelsen är.\n– ABB Robotics Sweden (65083659428, 290 000 SEK) saknar hs_sku på sin fjärde vecka. Varje körning utan åtgärd innebär en potentiell FDM som inte räknas.\n– Felix Flodin (82437539) driver 4 av 5 inbound-FDMs som SDR — hög koncentrationsrisk.\n– Datakvalitet: hs_sku saknas för standardprisade produkter (GlobalConnect InfoSec, Region Örebro Kvalitetsarbete). Inkluderas via namnmappning men bör åtgärdas för att säkra dataintegritet framöver.\n– Inga outbound expansion-FDMs med stark pipeline-indikation: Melleruds saknar fortfarande godkänd offert; Utbildia AI-licens exkluderas för saknat produkt-ID.\n\n6. REKOMMENDATION\nÅtgärda ABB-dealen (65083659428) omedelbart: lägg in hs_sku \"899310011\" (Hållbarhetsstyrning) på linjeobjektet 'Hållbarhetsstyrning (250-500 anställda)'. Det är nu fyra veckor sedan rekommendationen och en verified FDM (290 000 SEK) uteblir varje körning. Sätt dessutom hs_sku på GlobalConnect- och Region Örebro-linjeobjekten för att eliminera namnbaserad mappning i kommande månader.",
   "companyData": {
-    "Riksgälden": {
-      "employees": 200,
-      "revenue": 50000000,
-      "desc": "Riksgälden is the Swedish National Debt Office. They manage the national debt, handle state payments, provide state guarantees and loans, and manage banks in crisis and deposit guarantees."
-    },
-    "Mastec AB": {
-      "employees": 120,
-      "revenue": 50000000,
-      "desc": "Mastec specializes in contract manufacturing for industrial enterprises, focusing on the development and optimization of production setups and processes to enhance efficiency and support clients from concept to series production."
-    },
-    "Svenska esf-rådet": {
-      "employees": 250,
-      "revenue": 50000000,
-      "desc": "Svenska ESF-rådet is the authority that manages the European Social Fund in Sweden. We drive development and innovation for an inclusive labor market. Through the funds, we transform the labor market by financing projects that focus on skills development."
-    },
     "JSC it-partner": {
-      "employees": 90,
+      "employees": 69,
       "revenue": null,
-      "desc": "JSC it-partner helps you create time for what matters by providing the right IT support to strengthen your competitiveness and simplify your operations."
+      "desc": "JSC it-partner hjälper företag att förbättra sin konkurrenskraft genom att välja rätt IT-stöd och förenkla deras verksamhet."
     },
     "Komatsu Forest Machines": {
       "employees": 718,
       "revenue": 4569085000,
       "desc": "Komatsu Forest Machines provides forest machines and services designed to enhance profitability in forestry operations."
     },
-    "ABB Sweden": {
-      "employees": 3445,
-      "revenue": 21039653000,
-      "desc": "ABB is a technology leader in electrification and automation, offering power and automation technologies that support smart grids, robotics, electric vehicles, renewable energy, and motor systems."
+    "Svenska esf-rådet": {
+      "employees": 250,
+      "revenue": 50000000,
+      "desc": "Svenska ESF-rådet is the authority that manages the European Social Fund in Sweden. We drive development and innovation for an inclusive labor market."
     },
-    "Utbildia AB": {
-      "employees": null,
-      "revenue": null,
-      "desc": ""
+    "Mastec AB": {
+      "employees": 120,
+      "revenue": 50000000,
+      "desc": "Mastec specializes in contract manufacturing for industrial enterprises, focusing on the development and optimization of production setups and processes to enhance efficiency."
     },
-    "Melleruds kommun": {
-      "employees": 1016,
-      "revenue": null,
-      "desc": "Melleruds kommun is a government administration in Västra Götaland, Sweden, with a population of approximately 9,400 residents and 900 employees."
+    "Riksgälden": {
+      "employees": 200,
+      "revenue": 50000000,
+      "desc": "Riksgälden is the Swedish National Debt Office. They manage the national debt, handle state payments, provide state guarantees and loans, and manage banks in crisis and deposit guarantees."
+    },
+    "GlobalConnect": {
+      "employees": 611,
+      "revenue": 2300000000,
+      "desc": "GlobalConnect is a Nordic connectivity and data center provider delivering fiber, wavelength, and dark fiber services across the Nordics and the Baltics."
+    },
+    "Region Örebro län": {
+      "employees": 25196,
+      "revenue": 1000000000,
+      "desc": "Region Örebro läns publika webbplats. Regional organisation med ansvar för hälso- och sjukvård samt regional utveckling i Örebro län."
     }
   },
   "fdms": [
@@ -131,6 +126,42 @@
       "sdrName": "Felix Flodin",
       "amount": 70000,
       "company": "Riksgälden",
+      "sector": "public_sector",
+      "country": "Sweden"
+    },
+    {
+      "dealId": "66542409321",
+      "dealName": "lead - jonny.andersson@globalconnect.se",
+      "dealType": "newbiz",
+      "inbound": true,
+      "fdmDate": "2026-10-22",
+      "productId": "899310022",
+      "productName": "Informationssäkerhet & Dataskydd (inkl. ISO)",
+      "lineItemId": "60451827625",
+      "ownerId": "214743348",
+      "ownerName": "Butrint Morina",
+      "sdrId": null,
+      "sdrName": null,
+      "amount": 320000,
+      "company": "GlobalConnect",
+      "sector": "private_sector",
+      "country": "Norway"
+    },
+    {
+      "dealId": "35807215426",
+      "dealName": "Region Örebro län  - KPA",
+      "dealType": "expansion",
+      "inbound": false,
+      "fdmDate": "2026-10-26",
+      "productId": "899310009",
+      "productName": "Kvalitetsarbete för vård & omsorg",
+      "lineItemId": "31551481445",
+      "ownerId": "31871617",
+      "ownerName": "Erika Siljebrand Grans",
+      "sdrId": null,
+      "sdrName": null,
+      "amount": 260000,
+      "company": "Region Örebro län",
       "sector": "public_sector",
       "country": "Sweden"
     }
