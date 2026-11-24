@@ -1,62 +1,180 @@
 {
-  "meta": { "updated": "2026-11-17", "month": "2026-11", "target": null },
-  "insight": "November 2026 | Körning 2026-11-17 | Månadsläge (t.o.m. 2026-11-16, 16 av 30 dagar = 53%)\n\n1. FDM-VOLYM OCH INBOUND-ATTAINMENT\nTotalt 11 affärer har passerat FDM-steget 1–16 november 2026: 3 inbound (Xylem NB, Pajala kommun NB, SEK NB) och 8 outbound (Utvecklingspedagogik Sverige expansion, Watma Education expansion, Di Luca & Di Luca expansion, Capio Legevisitten expansion, Löfbergs Lila expansion, Alma Property Partners expansion, Afry AB NB, Genova Property Group NB). November saknar definierat mål (senaste konfigurerade: aug = 14). hs_product_id saknar på samtliga linjeobjekt för 5:e körningen i rad — inga FDMs kan formellt bekräftas mot vitlistan och fdms-arrayen är tom. Med nuvarande inbound-takt (3 inbound på 16 dagar ≈ 0,19/dag) projiceras ~6 inbound-FDMs för hela november — markant under augustimålet (14). Volymen har accelererat sedan förra körningen (7 deals per nov 10 → 11 per nov 16, +4 på 6 dagar).\n\n2. JÄMFÖRELSE MED FÖREGÅENDE MÅNAD\nOktober avslutades med 7 deals, varav ~5 inbound dominerade av InfoSec. November är 53% in med 11 deals totalt — bättre absolut volym — men inbound-andelen är lägre (27% mot ~71% i oktober). De fyra deals som tillkommit sedan körning 2 (nov 10) är: Utvecklingspedagogik Sverige (InfoSec, outbound expansion), Xylem (inbound NB), Watma Education (ESG DD, outbound expansion) och Pajala kommun (inbound NB). Inbound-accelerationen i slutet av perioden (2 av 3 inbound-deals inkom nov 10–12) är uppmuntrande men bilden förblir outbound-dominerad (73%).\n\n3. PRODUKTER OCH SEGMENT\nNamnbaserad analys (hs_product_id saknas — formell vitlistematchning ej möjlig):\n- Risk & Kontroll: 3 deals — Löfbergs Lila (nov 2, outbound expansion), SEK (nov 9, inbound NB, 70 000 SEK), Genova Property (nov 4, outbound NB, 200 000 SEK). Starkaste segmentet november, i linje med Stratsys GRC-pivot.\n- InfoSec & Dataskydd (inkl. ISO): 2 deals — Utvecklingspedagogik Sverige (488 anst., offentlig, nov 11, outbound expansion) och Di Luca & Di Luca (10 anst., privat, nov 4, outbound expansion). Spridning offentlig/privat visar att InfoSec-argumentet fungerar bredare.\n- ESG Due Diligence: 1 deal — Watma Education AB (165 anst., offentlig, nov 10, outbound expansion). Troligen frivillig hållbarhetsrapportering — utanför CSRD:s krympta räckvidd post-Omnibus I.\n- HSMQ/Compliance: 1 deal — Afry AB (7 852 anst., 13,1 Mdkr, privat, nov 5, outbound NB). Saknar linjeobjekt — produktkoppling okänd.\n- Planning: 1 deal — Alma Property Partners (50 anst., nov 4, outbound expansion). Linjeobjekt: Konsultpott — ej vitlistad.\n- AI-licens: 1 deal — Capio Legevisitten (640 anst., 937 Mkr, privat, nov 3, outbound expansion). Ej vitlistad produkt.\n- Ingen produkt alls: 2 deals — Xylem (897 anst., 2,85 Mdkr, SOM, inbound NB) och Pajala kommun (6 000 anst., 100 Mkr, SAM, inbound NB).\nXylem och Pajala är de affärsmässigt starkaste inbound-signalerna i november. Båda saknar linjeobjekt — hög risk för att de glider utan uppföljning.\n\n4. KOPPLING TILL MARKNADSLÄGET\nGRC-pivoten bekräftas: Risk & Kontroll är starkaste segment (3 av 11 deals). InfoSec håller i sig med 2 deals, driven av NIS2 och Cybersäkerhetslagen — Utvecklingspedagogiks offentliga profil är ett tydligt NIS2-mönster. EU Omnibus I (gäller 18 mars 2026) speglas i att ESG-produkter knappt förekommer: Watma Education är den enda ESG DD-dealen och bolaget har 165 anst. — sannolikt utanför CSRD-trösklarna, vilket innebär frivillig snarare än tvingande köpdrivare. CSDDD:s förskjutning till juli 2028 minskar urgency ytterligare för rena hållbarhetsköp. Capios AI-licens-FDM indikerar att sjukvårdssektorn börjar utforska Stratsys produktbredning utanför GRC, men produkten är ännu ej vitlistad och synliggörs inte i FDM-statistiken.\n\n5. RISKER OCH BEVAKNINGSPUNKTER\n- hs_product_id saknas på ALLA linjeobjekt (5:e körningen i rad, kritisk): FDM-statistiken är formellt 0 trots 11 registrerade pipeline-rörelser. Utan produkt-ID är vitlistematchning omöjlig och fdms-arrayen tom. Åtgärd akut.\n- Xylem och Pajala utan linjeobjekt: De starkaste inbound-signalerna i november saknar produktkoppling helt — risk för att möten genomförts utan att rätt modul visats eller att uppföljningen tappas.\n- Afry AB utan linjeobjekt (3:e körningen): SOM-klassad, 7 852 anst., 13 Mdkr — en av månadens strategiskt viktigaste deals. Utan produktkoppling är det omöjligt att avgöra om HSMQ-FDM:en är valid.\n- November-mål saknas: Utan definierat target är attainment-kommunikation till ledning omöjlig. Senaste referens: aug = 14 (3 månader gammal).\n- Hög outbound-andel (73%): Kan vara säsongsdriven eller indikera minskat inbound-flöde till följd av Omnibus I-effekten på ESG-leads.\n- Genova long-cycle: Next step satt till februari. FDM-datumet registrerat men stängning månader bort.\n- SDR-data saknas på 9 av 11 deals: Utan deal_sdr är attribution till SDR-aktivitet omöjlig.\n\n6. REKOMMENDATION\nPrioritet 1 (akut, 5:e körningen i rad): Implementera required-validering i HubSpot som blockar skapande av licenslinjeobjekt utan hs_product_id. Omedelbar åtgärd: gå manuellt igenom de 11 november-dealarna och koppla korrekt produkt-ID — prioritera Xylem (SOM, inbound NB), Pajala kommun (inbound NB) och Afry (SOM, hög dealstorlek) med rätt linjeobjekt från vitlistan. Validera om ESG DD för Watma (899310037?) och Risk & Kontroll för SEK/Löfbergs/Genova mappar mot korrekt ID. Definiera ett november-mål i systemet. Utan dessa åtgärder är FDM-KPI:n fortsatt oreliabel och omöjlig att kommunicera med integritet till ledning.",
+  "meta": { "updated": "2026-11-24", "month": "2026-11", "target": null },
+  "insight": "November 2026 | Körning 2026-11-24 | Månadsläge (t.o.m. 2026-11-23, 23 av 30 dagar = 77%)\n\n1. FDM-VOLYM OCH INBOUND-ATTAINMENT\nTotalt 17 affärer har passerat FDM-steget i november (1–23 nov). Namnbaserad vitlistematchning (hs_product_id saknas – 6:e körningen i rad) identifierar 12 FDM-objekt från 11 deals: 1 inbound (SEK, Risk & Kontroll) och 11 outbound. Av 4 inbound-deals (Safeture, Xylem, Pajala, SEK) saknar 3 linjeobjekt helt. November saknar definierat mål – senaste referens: aug = 14 inbound. Med 1 formell inbound-FDM på 23 av 30 dagar projiceras 1–2 inbound-FDMs för hela månaden – en historiskt svag inbound-period mot riktmärket.\n\n2. JÄMFÖRELSE MED FÖREGÅENDE MÅNAD\nFörra körningen (2026-11-17) registrerade 11 deals t.o.m. 16 nov. Sedan dess har 6 nya deals tillkommit: Careium ×2 (Risk & Kontroll + Cyber DD, 17 nov), Zenseact (InfoSec, 17 nov), IES (19 nov), ATG (Cyber + ESG DD, 20 nov) och Safeture (GRC inbound, 23 nov). Den senaste veckan dominerades av outbound expansion-deals (5 av 6 nya). Totalt ser november ut att stänga med 17+ deals – en stark volymtillväxt mot oktober – men inbound-andelen (24%) är markant lägre än oktober (~71% inbound). Volymökning driven av outbound-aktivitet snarare än inbound-attraktion.\n\n3. PRODUKTER OCH SEGMENT SOM DRIVER RESULTATEN\n- Risk & Kontroll: 4 FDMs (SEK inbound NB, Löfbergs outbound expansion, Genova outbound NB, Careium outbound expansion) – starkaste segmentet, i tydlig linje med Stratsys GRC-pivot.\n- InfoSec & Dataskydd (NIS2/Cybersäkerhetslagen): 3 FDMs (Zenseact outbound NB, Utvecklingspedagogik outbound expansion, Di Luca outbound expansion) – stadig aktivitet på NIS2-drivna köpare tvärs sektorer.\n- Cyber Due Diligence: 2 FDMs (ATG Cyber DD outbound expansion, Careium Cyber DD outbound expansion) – ATG-dealen är en stor expansion (310 000 SEK deal-value) och bekräftar DD-produkternas roll i outbound-arbetet.\n- ESG Due Diligence: 2 FDMs (ATG ESG DD outbound expansion, Watma ESG DD outbound expansion) – oväntat aktiva post-Omnibus I; sannolikt frivillig supply chain-screening snarare än tvingande CSRD-krav.\n- AI-licens: 1 FDM (Capio, outbound expansion) – tidigt skede, nischsegment.\n\n4. KOPPLING TILL MARKNADSLÄGET\nGRC-pivoten slår igenom: Risk & Kontroll och InfoSec/Cyber utgör 9 av 12 FDMs (75%). NIS2 och Cybersäkerhetslagen driver efterfrågan tydligt – Zenseacts profil (510 anst., autotech, kritisk infrastruktur) matchar NIS2-scopet exakt. Safetures inbound-signal (travel & people risk management, 43 anst.) är ny och kan indikera ett framväxande GRC-segment bland techbolag med globala operationer. ESG DD:s fortlevnad via ATG och Watma tyder på att supply chain-screening lever frivilligt, men CSDDD:s förskjutning till juli 2028 minskar urgency för nya ESG-köpare strukturellt. Capios AI-licens-FDM signalerar potentiell produktexpansion inom sjukvård – ett segment att bevaka.\n\n5. RISKER OCH BEVAKNINGSPUNKTER\n- hs_product_id null (6:e körningen i rad, kritisk): FDM-statistiken bygger uteslutande på namnmatchning – formellt 0 bekräftade FDMs mot vitlistan. Utan hs_product_id är KPI-rapportering till ledning opålitlig och fdms-arrayens integritet garanteras inte.\n- 3 inbound-deals utan linjeobjekt: Xylem (SOM, 897 anst., 2,85 Mdkr, vatten/industri), Pajala kommun (SAM, 6 000 anst., 100 Mkr) och Safeture (43 anst., inbound GRC) har passerat FDM men saknar produktkoppling – hög risk att möten genomförts utan att rätt modul visats eller att uppföljningen tappas.\n- IES utan linjeobjekt (SOM, 3 649 anst., 3,5 Mdkr): En av månadens strategiskt viktigaste affärer saknar produktregistrering.\n- Afry utan linjeobjekt (SOM, 7 852 anst., 13,1 Mdkr, 3:e månaden i rad): Fortsatt hög strategisk risk att en stor deal inte konverteras till formell FDM.\n- Inbound-takt kritiskt låg: Omnibus I:s reducering av CSRD-scope kan ha dränerat ESG-leads och påverkat inbound-flödet strukturellt.\n- November-mål saknas: Utan target är attainmentskommunikation till ledning omöjlig.\n\n6. REKOMMENDATION\nPrioritet 1 (akut, 6:e körningen i rad): Implementera required-validering i HubSpot för hs_product_id på licenslinjeobjekt. Prioritet 2 (denna vecka): Koppla korrekt linjeobjekt till Xylem, Pajala och Safeture – identifiera vilken produkt som visades och registrera rätt ID från vitlistan. Prioritet 3: Detsamma för IES och Afry. Utan produktkoppling på dessa fem deals förblir formell inbound-attainment artificiellt låg och strategiska deals riskerar att tappas utan uppföljning.",
   "companyData": {
-    "Aktiebolaget Svensk Exportkredit": {
-      "employees": 273,
-      "revenue": 2841000000,
-      "desc": "Svensk Exportkredit erbjuder konkurrenskraftiga och hållbara finansieringslösningar till svenska exportföretag, deras underleverantörer och internationella köpare för att stödja tillväxt, export och global expansion."
-    },
-    "Di Luca & Di Luca AB": {
-      "employees": 10,
-      "revenue": 1000000,
-      "desc": "Di Luca & Di Luca: A family business bringing the flavors of Italy and the Mediterranean to you with a diverse range of essential products for the food industry."
-    },
-    "Capio Legevisitten AB": {
-      "employees": 640,
-      "revenue": 936595000,
-      "desc": "Välkommen till Capio. Vi erbjuder vård online, primärvård, specialistvård och akutvård i Sverige. Välkommen att söka vård hos oss."
-    },
-    "Löfbergs Lila": {
-      "employees": 50,
-      "revenue": 10000000,
-      "desc": "Löfbergs UK is a company that specializes in providing Swedish coffee and coffee-related services in the UK. With a passion for superior quality and taste, Löfbergs ensures that their coffee is produced while respecting people and the planet at every step."
-    },
-    "Alma Property Partners AB": {
-      "employees": 50,
-      "revenue": 10000000,
-      "desc": "Alma Property is a real estate investment firm that specializes in the Nordic Region, leveraging the expertise of its senior professionals to actively manage and align with investors in the Swedish, Finnish, Danish, and Norwegian markets."
-    },
-    "Afry AB": {
-      "employees": 7852,
-      "revenue": 13109776000,
-      "desc": "Teknikkonsult"
-    },
-    "Genova Property Group": {
-      "employees": 50,
-      "revenue": 10000000,
-      "desc": "Genova är ett personligt fastighetsbolag som äger, förvaltar och utvecklar fastigheter långsiktigt, hållbart och med stort engagemang. Vi är inriktade på att skapa värde i fastighetsutveckling med fokus på hållbarhet."
-    },
-    "Watma Education AB": {
-      "employees": 165,
-      "revenue": 208675000,
-      "desc": "Watma Education is a company that operates various educational institutions in Sweden, including Fria Läroverken, Nordic International School, Kronoberg Skola, KF utbildning, and Kunskapscompaniet."
-    },
-    "Utvecklingspedagogik Sverige AB": {
-      "employees": 488,
-      "revenue": 327858000,
-      "desc": "Utvecklingspedagogik arbetar med skola och omsorg för elever och brukare med funktionsnedsättning med fokus på utveckling, delaktighet och livskvalitet för alla."
-    },
-    "Xylem": {
-      "employees": 897,
-      "revenue": 2852018000,
-      "desc": "Xylem is a global leader in water technology, specializing in innovative solutions for the transportation, treatment, and testing of water across various sectors, including public utilities, residential, commercial, industrial, and agricultural applications."
-    },
-    "Pajala kommun": {
-      "employees": 6000,
-      "revenue": 100000000,
-      "desc": "Pajala Kommun arbetar med att skapa möjligheternas kommun genom driv, kreativitet och trygghet."
-    }
+    "Trav och Galopp (ATG)": { "employees": 260, "revenue": 4941000000, "desc": "ATG provides online betting services for horse racing, sports, and casino games, offering news, expert tips, and live broadcasts to its users." },
+    "Careium": { "employees": 108, "revenue": 53199000, "desc": "Careium's offering in technology enabled care has, over time, built up within the framework of Doro, which prepared Careium with the right conditions to become an independent company. Today, Careium is the market leader in technology enabled care." },
+    "Zenseact AB": { "employees": 510, "revenue": 126663000, "desc": "" },
+    "Safeture": { "employees": 43, "revenue": null, "desc": "Safeture simplifies people and travel risk management with advanced technology, providing risk and security information that is always available to users regardless of their location." },
+    "Internationella engelska skolan": { "employees": 3649, "revenue": 3491134000, "desc": "Internationella Engelska Skolan is a bilingual Swedish school that provides an international educational environment with high academic expectations in a safe and calm setting." },
+    "Utvecklingspedagogik Sverige AB": { "employees": 488, "revenue": 327858000, "desc": "Utvecklingspedagogik arbetar med skola och omsorg för elever och brukare med funktionsnedsättning med fokus på utveckling, delaktighet och livskvalitet för alla." },
+    "Xylem": { "employees": 897, "revenue": 2852018000, "desc": "Xylem is a global leader in water technology, specializing in innovative solutions for the transportation, treatment, and testing of water across various sectors, including public utilities, residential, commercial, industrial, and agricultural applications." },
+    "Watma Education AB": { "employees": 165, "revenue": 208675000, "desc": "Watma Education is a company that operates various educational institutions in Sweden, including Fria Läroverken, Nordic International School, Kronoberg Skola, KF utbildning, and Kunskapscompaniet." },
+    "Pajala kommun": { "employees": 6000, "revenue": 100000000, "desc": "Pajala Kommun arbetar med att skapa möjligheternas kommun genom driv, kreativitet och trygghet." },
+    "Aktiebolaget Svensk Exportkredit": { "employees": 273, "revenue": 2841000000, "desc": "Svensk Exportkredit erbjuder konkurrenskraftiga och hållbara finansieringslösningar till svenska exportföretag, deras underleverantörer och internationella köpare för att stödja tillväxt, export och global expansion." },
+    "Di Luca & Di Luca AB": { "employees": 10, "revenue": 1000000, "desc": "Di Luca & Di Luca: A family business bringing the flavors of Italy and the Mediterranean to you with a diverse range of essential products for the food industry." },
+    "Capio Legevisitten AB": { "employees": 640, "revenue": 936595000, "desc": "Välkommen till Capio. Vi erbjuder vård online, primärvård, specialistvård och akutvård i Sverige. Välkommen att söka vård hos oss." },
+    "Löfbergs Lila": { "employees": 50, "revenue": 10000000, "desc": "Löfbergs UK is a company that specializes in providing Swedish coffee and coffee-related services in the UK. With a passion for superior quality and taste, Löfbergs ensures that their coffee is produced while respecting people and the planet at every step." },
+    "Alma Property Partners AB": { "employees": 50, "revenue": 10000000, "desc": "Alma Property is a real estate investment firm that specializes in the Nordic Region, leveraging the expertise of its senior professionals to actively manage and align with investors in the Swedish, Finnish, Danish, and Norwegian markets." },
+    "Afry AB": { "employees": 7852, "revenue": 13109776000, "desc": "Teknikkonsult" },
+    "Genova Property Group": { "employees": 50, "revenue": 10000000, "desc": "Genova är ett personligt fastighetsbolag som äger, förvaltar och utvecklar fastigheter långsiktigt, hållbart och med stort engagemang. Vi är inriktade på att skapa värde i fastighetsutveckling med fokus på hållbarhet." }
   },
-  "fdms": []
+  "fdms": [
+    {
+      "dealId": "68397408336",
+      "dealName": "Trav och Galopp (ATG) - DD",
+      "productId": null,
+      "productName": "Cyber Due Diligence (up to 250 suppliers)",
+      "dealType": "expansion",
+      "leadsType": "outbound",
+      "fdmDate": "2026-11-20",
+      "ownerId": "31657280",
+      "dealSdr": null,
+      "amount": 310000,
+      "company": "Trav och Galopp (ATG)"
+    },
+    {
+      "dealId": "68397408336",
+      "dealName": "Trav och Galopp (ATG) - DD",
+      "productId": null,
+      "productName": "ESG Due Diligence (up to 250 suppliers)",
+      "dealType": "expansion",
+      "leadsType": "outbound",
+      "fdmDate": "2026-11-20",
+      "ownerId": "31657280",
+      "dealSdr": null,
+      "amount": 310000,
+      "company": "Trav och Galopp (ATG)"
+    },
+    {
+      "dealId": "68033976659",
+      "dealName": "Careium - Risk & Kontroll",
+      "productId": null,
+      "productName": "Risk och kontroll produktlicens (custom)",
+      "dealType": "expansion",
+      "leadsType": "outbound",
+      "fdmDate": "2026-11-17",
+      "ownerId": "523874116",
+      "dealSdr": null,
+      "amount": 70000,
+      "company": "Careium"
+    },
+    {
+      "dealId": "68033975315",
+      "dealName": "Careium - Cyber DD",
+      "productId": null,
+      "productName": "Cyber DD Produktlicens (custom)",
+      "dealType": "expansion",
+      "leadsType": "outbound",
+      "fdmDate": "2026-11-17",
+      "ownerId": "523874116",
+      "dealSdr": null,
+      "amount": 70000,
+      "company": "Careium"
+    },
+    {
+      "dealId": "68035805064",
+      "dealName": "Zenseact AB - Informationssäkerhet & Dataskydd",
+      "productId": null,
+      "productName": "Informationssäkerhet & Dataskydd (inkl. ISO) (custom)",
+      "dealType": "new_business",
+      "leadsType": "outbound",
+      "fdmDate": "2026-11-17",
+      "ownerId": "523874116",
+      "dealSdr": null,
+      "amount": 70000,
+      "company": "Zenseact AB"
+    },
+    {
+      "dealId": "67797157547",
+      "dealName": "Utvecklingspedagogik Sverige - Infosäk & Dataskydd",
+      "productId": null,
+      "productName": "Informationssäkerhet & Dataskydd (inkl. ISO) (custom)",
+      "dealType": "expansion",
+      "leadsType": "outbound",
+      "fdmDate": "2026-11-11",
+      "ownerId": "523874116",
+      "dealSdr": null,
+      "amount": 70000,
+      "company": "Utvecklingspedagogik Sverige AB"
+    },
+    {
+      "dealId": "67661112393",
+      "dealName": "Watma Education - DD",
+      "productId": null,
+      "productName": "ESG Due Diligence (custom)",
+      "dealType": "expansion",
+      "leadsType": "outbound",
+      "fdmDate": "2026-11-10",
+      "ownerId": "523874116",
+      "dealSdr": null,
+      "amount": 70000,
+      "company": "Watma Education AB"
+    },
+    {
+      "dealId": "67527486393",
+      "dealName": "lead - rebecca.bergquist@sek.se",
+      "productId": null,
+      "productName": "Risk och kontroll produktlicens (custom)",
+      "dealType": "new_business",
+      "leadsType": "inbound",
+      "fdmDate": "2026-11-09",
+      "ownerId": "214743348",
+      "dealSdr": "82437539",
+      "amount": 70000,
+      "company": "Aktiebolaget Svensk Exportkredit"
+    },
+    {
+      "dealId": "67365460279",
+      "dealName": "Di Luca & Di Luca AB - Infosäk & Dataskydd",
+      "productId": null,
+      "productName": "Informationssäkerhet & Dataskydd (inkl. ISO) (custom)",
+      "dealType": "expansion",
+      "leadsType": "outbound",
+      "fdmDate": "2026-11-04",
+      "ownerId": "523874116",
+      "dealSdr": null,
+      "amount": 70000,
+      "company": "Di Luca & Di Luca AB"
+    },
+    {
+      "dealId": "67346097174",
+      "dealName": "Capio Legevisitten AB - AI-licens",
+      "productId": null,
+      "productName": "Stratsys AI-licens (Custom)",
+      "dealType": "expansion",
+      "leadsType": "outbound",
+      "fdmDate": "2026-11-03",
+      "ownerId": "523874116",
+      "dealSdr": null,
+      "amount": 0,
+      "company": "Capio Legevisitten AB"
+    },
+    {
+      "dealId": "67167639648",
+      "dealName": "Löfbergs Lila - Risk & Kontroll",
+      "productId": null,
+      "productName": "Risk och kontroll produktlicens (custom)",
+      "dealType": "expansion",
+      "leadsType": "outbound",
+      "fdmDate": "2026-11-02",
+      "ownerId": "523874116",
+      "dealSdr": null,
+      "amount": 70000,
+      "company": "Löfbergs Lila"
+    },
+    {
+      "dealId": "65489745556",
+      "dealName": "Genova Property Group - GRC/HBS?",
+      "productId": null,
+      "productName": "Risk och kontroll - produktlicens S",
+      "dealType": "new_business",
+      "leadsType": "outbound",
+      "fdmDate": "2026-11-04",
+      "ownerId": "76536093",
+      "dealSdr": null,
+      "amount": 200000,
+      "company": "Genova Property Group"
+    }
+  ]
 }
